@@ -1,0 +1,45 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Remind me to feed the cat in 15 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need to check the door lock in 40 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me to water the plants in 35 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please notify me to close the fridge in 50 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Remind me to switch off the alarm in 70 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I should send the report in 20 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me to pack my bag in 25 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to shut down the system in 60 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Remind me to reply to that email in 30 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ping me to check the oven in 45 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let me know to feed the fish in 90 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Notify me to plug in my laptop in 10 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Remind me to take the laundry out in 55 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me to lock my bike in 15 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let me shut the windows in 40 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Remind me to call the boss in 35 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need to grab a snack in 25 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me to stop the washing machine in 60 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ping me to open the windows in 30 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Notify me to check the toast in 50 seconds", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ανοίξω την πόρτα σε 20 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να πάρω τα ρούχα από το πλυντήριο σε 55 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να απαντήσω στο email σε 60 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να κλείσω τον υπολογιστή σε 90 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να φάω το πρωινό μου σε 35 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ξυπνήσω τον αδερφό μου σε 15 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ελέγξω το θερμοσίφωνα σε 40 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να στείλω το μήνυμα σε 30 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να αερίσω το δωμάτιο σε 45 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ετοιμάσω το γεύμα σε 70 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να καθαρίσω το δωμάτιο σε 25 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να πάρω τα σκουπίδια σε 60 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ελέγξω το παράθυρο σε 45 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να απενεργοποιήσω το φούρνο σε 30 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να πιω τον καφέ σε 20 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να στείλω ένα email σε 90 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να φέρω το κινητό μου σε 35 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να φορτίσω το tablet σε 50 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να πάρω το βιβλίο σε 15 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ανοίξω την τηλεόραση σε 70 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ποτίσω τα λουλούδια σε 40 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να διακόψω τη μουσική σε 25 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ελέγξω την πόρτα σε 30 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ενεργοποιήσω το συναγερμό σε 55 δευτερόλεπτα", "output": "remember-synapse"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να πλύνω τα πιάτα σε 65 δευτερόλεπτα", "output": "remember-synapse"}

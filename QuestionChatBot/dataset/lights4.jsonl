@@ -1,0 +1,330 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "αντίο", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τα λέμε", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φιλιά, γεια σου", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "χαιρετισμούς", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "αντίο προς το παρόν", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "γεια σου για τώρα", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "καλό δρόμο", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "αντίο φίλε μου", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τα λέμε σύντομα", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θα σε δω αργότερα", "output": "goodbye"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "goodbye", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "see you later", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "farewell", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "bye bye", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "take care", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "catch you later", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "see you soon", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "talk to you later", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "bye for now", "output": "goodbye"}
+{"instruction": "Classify the intent of the following sentence.", "input": "have a nice trip", "output": "goodbye"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε τηλεόραση", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε την τηλεόραση", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω να δω τηλεόραση", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τηλεόραση τώρα", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "παίξε τηλεόραση", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα την τηλεόραση", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε την τηλεόραση στο σαλόνι", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω να ξεκινήσει η τηλεόραση", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τηλεόραση παρακαλώ", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε μου τηλεόραση", "output": "dinner"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the TV", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "start the television", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to watch TV", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "can you play the TV", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "TV time", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the living room TV", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "put something on TV", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "let's watch some TV", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the screen", "output": "dinner"}
+{"instruction": "Classify the intent of the following sentence.", "input": "TV please", "output": "dinner"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε τα φώτα στο διαμέρισμα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε τα φώτα παντού", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω να κλείσουν όλα τα φώτα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σκοτείνιασε το σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε όλα τα φώτα στο σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μηδένισε το φως στο σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε τα φώτα του διαμερίσματος", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "όλο το διαμέρισμα στο σκοτάδι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κατέβασε τα φώτα στο διαμέρισμα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "όλα τα φώτα κλειστά παρακαλώ", "output": "apartment"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off the apartment lights", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch off all lights in the flat", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want all the lights off", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "darken the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut down every light in the house", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kill the lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "lights off everywhere", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please turn off all the lights", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make the apartment dark", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "disable all lights now", "output": "apartment"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε το sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε μουσική από το sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ενεργοποίησε το sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το ηχείο sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "παίξε μουσική στο sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το ηχείο", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα τον ήχο", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ανάψε το sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα μουσική στο ηχείο", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε τραγούδι στο sonos", "output": "sonos-play"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "play music on sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "start the sonos speaker", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "enable sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on music with sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "activate sonos speaker", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "play audio on sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "launch music via sonos", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "sonos start playing", "output": "sonos-play"}
+{"instruction": "Classify the intent of the following sentence.", "input": "power on the sonos system", "output": "sonos-play"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε το sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σταμάτα τη μουσική από το sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "απενεργοποίησε το sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σταμάτα το ηχείο", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε τον ήχο", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μην παίζει άλλο μουσική", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τέρμα μουσική στο sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σταμάτησε το ηχείο τώρα", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σιώπη στο sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μην παίζει άλλο ο sonos", "output": "sonos-stop"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off the sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "stop the music on sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "disable sonos speaker", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "stop audio from sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off sonos system", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut down the sonos speaker", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kill the sound from sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "mute sonos", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make sonos stop playing", "output": "sonos-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "pause the sonos playback", "output": "sonos-stop"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "άναψε το κλιματιστικό στην κουζίνα", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ενεργοποίησε το κλιματιστικό στην κουζίνα", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε το air condition στην κουζίνα", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα τον κλιματισμό στην κουζίνα", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε τον εξαερισμό της κουζίνας", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε ψύξη στην κουζίνα", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ενεργοποίησε την ψύξη στην κουζίνα", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το σύστημα ψύξης κουζίνας", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άναψε το air-condition", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το A/C κουζίνας", "output": "fan-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the kitchen AC", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "activate the air conditioning in the kitchen", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch on the kitchen air conditioner", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "start cooling in the kitchen", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "enable AC in the kitchen", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "begin ventilation in the kitchen", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "cool the kitchen", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "AC on in the kitchen", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "launch kitchen fan", "output": "fan-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch on cooling system in kitchen", "output": "fan-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε την πόρτα", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "την πόρτα", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκλείδωσε την πόρτα", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω να μπω μέσα", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκλείδωσε", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε για να περάσω", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκλείδωσε την είσοδο", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκλείδωσε την εξώπορτα", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε είσοδο", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε την εξώπορτα", "output": "door-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "open the door", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "unlock the door", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please let me in", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to enter", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Im home", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "open main entrance", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "grant access", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "door open now", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "unlock entrance", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "open the main gate", "output": "door-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "allow entry", "output": "door-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "άναψε το κλιματιστικό στο εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε το air condition στο εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα την ψύξη στο εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ενεργοποίησε το A/C στο lab", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε τον εξαερισμό στο εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το σύστημα ψύξης στο εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε κλιματισμό στο lab", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "δροσισε το εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε ψύξη εργαστήριο", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το κλιματιστικό στο lab", "output": "fan-lab1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the lab air conditioning", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "activate lab AC", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "start cooling in the lab", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "enable air conditioning for the lab", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch on lab aircon", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "launch ventilation in lab", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "AC on in the lab", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "cool the laboratory", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn lab AC on", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "start aircon in the lab", "output": "fan-lab1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε το κλιματιστικό στο εργαστήριο", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σταμάτησε την ψύξη στο εργαστήριο", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "απενεργοποίησε το A/C εργαστηρίου", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βγάλε από λειτουργία το air condition στο εργαστήριο", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μην ψύχεις άλλο το lab", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "απενεργοποίησε την ψύξη εργαστηρίου", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βγάλε εκτός λειτουργίας το κλιματιστικό", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σταμάτα την ψύξη στο εργαστήριο", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε το air condition του lab", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε την ψύξη του lab", "output": "fan-lab2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off the lab AC", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "disable cooling in the lab", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "stop the air conditioning in the lab", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn the lab aircon off", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut down AC in the lab", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "lab cooling system off", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please disable lab ventilation", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "AC off now in the lab", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch off lab cooling system", "output": "fan-lab2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "stop air conditioning in lab", "output": "fan-lab2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε τα φώτα στο διαμέρισμα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε όλα τα φώτα στο σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σκοτείνιασε το διαμέρισμα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε τα φώτα του σπιτιού", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε τα φώτα στο σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "όλα τα φώτα off", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε φώτα παντού", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε όλα τα φώτα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να κλείσουν τα φώτα του διαμερίσματος", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε τα πάντα", "output": "apartment"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off all lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut down the apartment lights", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch off house lighting", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "lights off in the flat", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kill the lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make the house dark", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "apartment lights off now", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please turn off lights in entire house", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut all lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "darken the apartment", "output": "apartment"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε τη θερμοκρασία στους 28 βαθμούς", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε θερμοκρασία 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέρμανση στους 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θερμοκρασία ρύθμιση 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε στους είκοσι οχτώ βαθμούς", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θερμοκρασία σε 28 βαθμούς", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κάνε 28 τη θερμοκρασία", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε 28 στο θερμοστάτη", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε θερμοστάτη στους 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε σε είκοσι οχτώ", "output": "Temperature-set"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "set temperature to 28 degrees", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "adjust temp to 28 Celsius", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "set thermostat to 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please make it 28 degrees", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "change temperature to 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make it 28° in here", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want 28 degrees now", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "put the temperature at 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "set 28 degrees Celsius", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn heat to 28", "output": "Temperature-set"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε τα φώτα στο διαμέρισμα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε όλα τα φώτα στο σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σκοτείνιασε το διαμέρισμα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε τα φώτα του σπιτιού", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε τα φώτα στο σπίτι", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "όλα τα φώτα off", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε φώτα παντού", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε όλα τα φώτα", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να κλείσουν τα φώτα του διαμερίσματος", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε τα πάντα", "output": "apartment"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off all lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut down the apartment lights", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch off house lighting", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "lights off in the flat", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kill the lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make the house dark", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "apartment lights off now", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please turn off lights in entire house", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "shut all lights in the apartment", "output": "apartment"}
+{"instruction": "Classify the intent of the following sentence.", "input": "darken the apartment", "output": "apartment"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε τη θερμοκρασία στους 28 βαθμούς", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε θερμοκρασία 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέρμανση στους 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θερμοκρασία ρύθμιση 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε στους είκοσι οχτώ βαθμούς", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θερμοκρασία σε 28 βαθμούς", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κάνε 28 τη θερμοκρασία", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "βάλε 28 στο θερμοστάτη", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε θερμοστάτη στους 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ρύθμισε σε είκοσι οχτώ", "output": "Temperature-set"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "set temperature to 28 degrees", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "adjust temp to 28 Celsius", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "set thermostat to 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "please make it 28 degrees", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "change temperature to 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make it 28° in here", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want 28 degrees now", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "put the temperature at 28", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "set 28 degrees Celsius", "output": "Temperature-set"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn heat to 28", "output": "Temperature-set"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε το φως στην κουζίνα", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φως κουζίνας on", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ανάψε το φως της κουζίνας", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω φως στην κουζίνα", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άναψε κουζίνα", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φως κουζίνα", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φώτισε την κουζίνα", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άνοιξε φώτα κουζίνας", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κουζίνα φως on", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φωτισμός κουζίνας", "output": "kitchen-on1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn on the kitchen light", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch on kitchen light", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "light up the kitchen", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "enable kitchen lighting", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kitchen lights on", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn lights on in the kitchen", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "activate kitchen light", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "start lighting in kitchen", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "bring light to the kitchen", "output": "kitchen-on1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "make kitchen bright", "output": "kitchen-on1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "κλείσε το φως στην κουζίνα", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε το φως της κουζίνας", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φως κουζίνας off", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κουζίνα χωρίς φως", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω σκοτάδι στην κουζίνα", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σβήσε κουζίνα", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φως κουζίνας τέλος", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φωτισμός κουζίνας off", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κουζίνα φως off", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σκοτάδι στην κουζίνα", "output": "kitchen-off1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "turn off the kitchen light", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch off kitchen lights", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "disable lighting in kitchen", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kill kitchen lights", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "kitchen lights off", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "turn lights off in kitchen", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "remove kitchen light", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "darken the kitchen", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "switch kitchen light to off", "output": "kitchen-off1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "deactivate kitchen lighting", "output": "kitchen-off1"}

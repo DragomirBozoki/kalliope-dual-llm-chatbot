@@ -1,0 +1,41 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Where are my keys?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you help me find my keys?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I lost my keys, where are they?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know where I left my keys?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me where my keys are.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Find my keys.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Locate my keys.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I can't find my keys.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where did I leave my keys?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Any idea where my keys are?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me where the keys are?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need to find my keys.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where are the house keys?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where are my car keys?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Help me locate the keys.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "My keys are missing, help.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Check where the keys are.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Keys, where are you?", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Locate the missing keys.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you locate the keys for me?", "output": "findkeys"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να με βοηθήσεις να βρω τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχασα τα κλειδιά μου, πού είναι;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξέρεις πού άφησα τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου πού είναι τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βρες μου τα κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Εντόπισε τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν μπορώ να βρω τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού άφησα τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Καμία ιδέα πού είναι τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις πού είναι τα κλειδιά;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι να βρω τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι τα κλειδιά του σπιτιού;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι τα κλειδιά του αυτοκινήτου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βοήθησέ με να εντοπίσω τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μου λείπουν τα κλειδιά, βοήθησέ με.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έλεγξε πού είναι τα κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλειδιά, πού είστε;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Εντόπισε τα χαμένα κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να εντοπίσεις τα κλειδιά για μένα;", "output": "findkeys"}

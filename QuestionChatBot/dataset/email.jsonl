@@ -1,0 +1,41 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Do I have any emails?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Check my email inbox.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you see if I received an email?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Look into my Gmail account.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please check for new emails.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do I have unread messages?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Open my email.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Any new emails today?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Did I get an email?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you check if I got a message?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Show me my latest emails.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do I have mail in my inbox?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there any mail for me?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Check if there’s something in my Gmail.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there any new messages?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you open my inbox?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Look into my email account.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do I have any unread Gmail messages?", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please verify if I received mail.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Fetch my recent emails.", "output": "check-email"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχω email;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έλεγξε το email μου.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να δεις αν έχω κάποιο email;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε το Gmail μου.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ έλεγξε για νέα email.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχω μη αναγνωσμένα μηνύματα;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε τα email μου.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχει κάποιο νέο email σήμερα;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έλαβα κάποιο email;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να δεις αν πήρα κάποιο μήνυμα;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δείξε μου τα τελευταία email μου.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχω μηνύματα στο inbox μου;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχει κάποιο μήνυμα για μένα;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έλεγξε το Gmail για νέα μηνύματα.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχω καινούρια μηνύματα;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ανοίξεις το inbox;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έλεγξε τον λογαριασμό email μου.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχω μη αναγνωσμένα στο Gmail;", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Επιβεβαίωσε αν πήρα κάποιο email.", "output": "check-email"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φέρε μου τα τελευταία μου email.", "output": "check-email"}

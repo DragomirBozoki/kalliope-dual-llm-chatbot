@@ -1,0 +1,89 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχουμε επισκέψεις", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ήρθαν επισκέπτες", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχουμε κόσμο", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάποιος ήρθε", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Επισκέπτες στο σπίτι", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ήρθαν κάποιοι από το πανεπιστήμιο", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάποιοι μας επισκέφθηκαν", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχουν καλεσμένοι", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχουμε επίσκεψη", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μας επισκέπτονται", "output": "synapse1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "We have guests", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Someone came to visit", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Visitors arrived", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "There are guests at the house", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Guests from the university came", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "We got a visit", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "People just arrived", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "They are visiting us", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Guests just walked in", "output": "synapse1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "We have visitors from university", "output": "synapse1"}
+
+
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλεις να τους μιλήσεις", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να μιλήσεις στους επισκέπτες;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θα τους μιλήσεις;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλεις να πεις κάτι στους καλεσμένους;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλεις να τους πεις κάτι;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μιλήσεις στους επισκέπτες;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να απευθυνθείς στους επισκέπτες;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μιλάς στους καλεσμένους;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλεις να χαιρετήσεις;", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "έχεις κάτι να τους πεις;", "output": "synapse3"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you want to speak to them?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Would you like to talk to the guests?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shall we greet the visitors?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are you going to speak to them?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Want to say something to the guests?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Would you like to say something?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you want to greet them?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are you going to address them?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Should we speak to the visitors?", "output": "synapse3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are you ready to talk to them?", "output": "synapse3"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "από το πανεπιστήμιο Πελοποννήσου", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "από το Πανεπιστήμιο", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι από το πανεπιστήμιο", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ήρθαν από το πανεπιστήμιο Πελοποννήσου", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι φοιτητές του πανεπιστημίου", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι καθηγητές του πανεπιστημίου", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "επισκέπτες από το πανεπιστήμιο", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πανεπιστήμιο Πελοποννήσου", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ήρθαν από την τριτοβάθμια εκπαίδευση", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ανήκουν στο πανεπιστήμιο", "output": "synapse2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "They are from the University of Peloponnese", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "From the University", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "University guests", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "They came from the university", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "They are students from the university", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Professors from the university", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Visitors from University of Peloponnese", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "They study at the university", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "They belong to the university staff", "output": "synapse2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "They’re from a higher education institute", "output": "synapse2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "για μίλα", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μίλα τους", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες κάτι", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μίλα στους επισκέπτες", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα να μιλάς", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ανέλαβε τον χαιρετισμό", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα συζήτηση", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "άρχισε να λες κάτι", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "κάνε την εισαγωγή", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "χαιρέτα τους", "output": "synapse4"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Go ahead and speak", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Say something", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Talk to them", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start talking", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Begin speaking", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please introduce us", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Say hello", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make a greeting", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let’s hear you", "output": "synapse4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do the welcome message", "output": "synapse4"}
+

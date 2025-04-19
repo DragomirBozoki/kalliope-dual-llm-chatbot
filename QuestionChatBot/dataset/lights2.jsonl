@@ -1,0 +1,160 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the lights in the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please activate the room lighting.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch on the lights in the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Illuminate the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you turn the room lights on?", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the lights on in the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure the room is well-lit.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Light up the room, please.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need illumination in the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Brighten the room now.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Room lights on, please.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let there be light in the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you light up my room?", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights up in the room, now!", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please light the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start the room lights.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let the room be bright.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights in the room should be on.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Room lighting needs to be activated.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kindly switch on the room lights.", "output": "room-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the lights in the room.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please activate the room lighting.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you switch on the room lights?", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want the room to be bright.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Room lights on, please.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τα φώτα στο δωμάτιο.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι φως στο δωμάτιο.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τον φωτισμό του δωματίου.", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ανάψεις το φως στο δωμάτιο;", "output": "room-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να φωτίσεις το δωμάτιο.", "output": "room-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the lights in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please deactivate the room lighting.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off the lights in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Darken the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you make the room darker?", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the lights off in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please shut down room illumination.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure the room is not lit.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights out in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ensure the room lights are off.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Room lights should be off now.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn the room lights down to zero.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut off the lights in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want darkness in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kill the lights in the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop the room lights.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please remove all light from the room.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Power down room lighting.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch room lights to OFF mode.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off every bulb in the room.", "output": "room-off"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε το φως στο δωμάτιο.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να κλείσεις τα φώτα;", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω σκοτάδι στο δωμάτιο.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε το φως του δωματίου.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε το φως στο δωμάτιο.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα μπορούσες να σβήσεις τα φώτα;", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν χρειάζομαι φως πλέον.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα ήθελα να είναι σκοτεινά στο δωμάτιο.", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να κλείσεις το φως εδώ;", "output": "room-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω τα φώτα κλειστά.", "output": "room-off"}
+
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the lights in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please activate the living room lighting.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch on the lights in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Illuminate the dining room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you light up the living room?", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the living room lights on.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make the dining room brighter.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please brighten up the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let there be light in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "We need light in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on dining room lighting.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please switch on the living room lights.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Living room needs to be lit.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd appreciate it if you light up the dining area.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Light the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need lights in the living area.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn the living room lights on, please.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start lighting the dining room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate lights in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Power on the living room lights.", "output": "Livingroom-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the lights in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please activate the living room lighting.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you switch on the lights in the living room?", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want light in the living room.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Living room lights on, please.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τα φώτα στο σαλόνι.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φώτισε το σαλόνι, παρακαλώ.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τα φώτα του σαλονιού.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω φως στο σαλόνι.", "output": "Livingroom-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ανάψεις το σαλόνι;", "output": "Livingroom-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the lights in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please deactivate the dining room lighting.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off the lights in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Darken the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please make the living room darker.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the lights off in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut down the lights in the dining room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure the living room is not lit.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights out in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ensure the living room lights are off.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Power down the dining room lights.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch dining room lights to OFF.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Living room lighting off now.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kill the lights in the dining area.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want no light in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please shut off the lights in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Disable lights in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop lighting the dining area.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd prefer the living room to be dark now.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn every light off in the living room.", "output": "Livingroom-off"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the lights in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please deactivate the living room lighting.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off the lights in the living room.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want the living room to be dark.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Living room lights off, please.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε τα φώτα στο σαλόνι.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον φωτισμό στο σαλόνι.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να σβήσεις τα φώτα του σαλονιού;", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω σκοτάδι στο σαλόνι.", "output": "Livingroom-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε τα φώτα στο σαλόνι.", "output": "Livingroom-off"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Dim the lights in the living room to 10%.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please set the dining room lights to 10%.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lower the light intensity in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you dim the living room lights?", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the dining room lights dimmed.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Reduce lighting in the living area.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please decrease brightness in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lower the dining room illumination.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Dimming the lights in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Set the living room light level to low.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make the living room lights softer.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tone down the lighting in the dining area.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Put the living room lights on dim mode.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Adjust dining room lights to be dim.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Living room brightness to minimum.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Set dining lights to 10 percent.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn down the lights in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make living room lights faint.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights in dining room to dim setting.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Minimize the light level in the living room.", "output": "Livingroom-dim"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Dim the lights in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you lower the brightness in the living room?", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want softer lights in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make the living room lights dimmer.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Reduce the light intensity in the living room.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χαμήλωσε τα φώτα στο σαλόνι.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάνε πιο αμυδρό τον φωτισμό στο σαλόνι.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω πιο χαμηλό φως στο σαλόνι.", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μειώσεις την ένταση του φωτός;", "output": "Livingroom-dim"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φτιάξε ατμόσφαιρα στο σαλόνι με χαμηλό φως.", "output": "Livingroom-dim"}

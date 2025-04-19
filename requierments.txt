@@ -1,0 +1,10 @@
+# Core ML libraries
+transformers==4.39.3
+datasets==2.18.0
+torch==2.2.2
+
+# Optional for logging & monitoring
+tensorboard==2.16.2
+
+# Needed for JSON and data handling (usually already installed)
+tqdm

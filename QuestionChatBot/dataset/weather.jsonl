@@ -1,0 +1,21 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι καιρό θα κάνει;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις τον καιρό;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πώς θα είναι ο καιρός σήμερα;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η πρόγνωση για σήμερα;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα βρέξει σήμερα;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου τον καιρό για αύριο.", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα έχει ήλιο ή σύννεφα;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι λέει η πρόγνωση καιρού;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα κάνει ζέστη αύριο;", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου τον καιρό στην Πάτρα.", "output": "get-the-weather"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What's the weather like?", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me the weather forecast.", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Will it rain today?", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me the weather report.", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is it going to be sunny?", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What's the forecast for today?", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How's the weather in Patra?", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me today's weather.", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Will it be warm tomorrow?", "output": "get-the-weather"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Check the weather conditions.", "output": "get-the-weather"}

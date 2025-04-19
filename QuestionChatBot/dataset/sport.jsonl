@@ -1,0 +1,41 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me the latest sports news.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me an update on sports.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s the most recent sports headline?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Update me with today’s sports news.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Any news from the sports world?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me sports updates.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s new in sports today?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s happening in sports?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me one piece of sports news.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me the top sports story now.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there any sports update?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let me know what’s going on in sports.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Share one new sports article with me.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can I get the latest in sports?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Any headlines about sports?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let’s hear the latest sports update.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s the freshest news from sports?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to hear something new in sports.", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the newest thing in sports?", "output": "news-sport"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you fetch the latest sports article?", "output": "news-sport"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να με βοηθήσεις να βρω τα κλειδιά;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχασα τα κλειδιά μου, πού είναι;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξέρεις πού άφησα τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βρες μου τα κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν βρίσκω τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βοήθησέ με να βρω τα κλειδιά μου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι τα κλειδιά του σπιτιού;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού τα άφησα τα κλειδιά;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξέρεις που είναι τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχασα τα κλειδιά του αυτοκινήτου.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι τα κλειδιά του γραφείου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βρες τα χαμένα μου κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τα κλειδιά μου λείπουν, βοήθησε με.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έλεγξε πού είναι τα κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλειδιά, πού είστε;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι τα κλειδιά μου, πού είναι;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κοίτα πού βρίσκονται τα κλειδιά.", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να εντοπίσεις τα κλειδιά μου;", "output": "findkeys"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χάθηκαν τα κλειδιά μου, τι να κάνω;", "output": "findkeys"}

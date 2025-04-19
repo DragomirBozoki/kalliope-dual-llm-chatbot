@@ -1,0 +1,203 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Please turn on the kitchen lights.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you switch on the kitchen lights for me?", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I’d like the lights in the kitchen activated.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let there be light in the kitchen!", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kitchen illumination needed, please.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn kitchen lights on now.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Brighten up the kitchen area.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you activate kitchen lighting?", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Light up the kitchen, please.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please get the kitchen lights turned on.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd appreciate some kitchen illumination.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you make sure the kitchen lights are on?", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the lights, kitchen.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Get those kitchen lights on, please.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Illuminate kitchen immediately.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate the kitchen lighting system.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you brighten the kitchen, please?", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make the kitchen bright now.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need lights on in the kitchen.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to cook.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch kitchen lights to ON.", "output": "kitchen-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τα φώτα στην κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ανάψεις τα φώτα της κουζίνας;", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω φώτα στην κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειαζόμαστε φως στην κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε τον φωτισμό της κουζίνας.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φώτισε την κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τον φωτισμό κουζίνας τώρα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τα φώτα της κουζίνας.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε τα φώτα, κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειαζόμαστε φωτισμό στην κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να δώσεις φως στην κουζίνα;", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τον διακόπτη κουζίνας.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κουζίνα φως τώρα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε την κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τον φωτισμό κουζίνας.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δώσε φως στην κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε κουζίνα φώτα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να δω στην κουζίνα.", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να φωτίσεις την κουζίνα;", "output": "kitchen-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φως κουζίνα τώρα.", "output": "kitchen-on"}
+
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the lights in the lab.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please activate the lab lighting.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch on laboratory lights, please.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Illuminate the lab.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need some lights on in the lab.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you brighten the laboratory?", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate lab illumination now.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you turn the laboratory lights on?", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Get those lab lights switched on, please.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure the lab lights are activated.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd appreciate it if you switch on the lights in the lab.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you please light up the laboratory?", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lab lighting on, please.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn the lab illumination on now.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch laboratory lighting to ON.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights on in the lab area.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want the lab lights activated.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you ensure the lab lights are switched on?", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate the laboratory's lights, please.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let there be lights in the lab.", "output": "lab-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τα φώτα στο εργαστήριο.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ανάψεις τα φώτα του εργαστηρίου;", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω φως στο εργαστήριο.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ανάψε τον φωτισμό του εργαστηρίου.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φώτισε το εργαστήριο.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα μπορούσες να φωτίσεις το εργαστήριο;", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τον φωτισμό στο lab.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειαζόμαστε φως στο εργαστήριο.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φέρε φως στο lab.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα ήθελα φως στο εργαστήριο παρακαλώ.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ανέβασε τον φωτισμό του εργαστηρίου.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε φώτα εργαστηρίου.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ, άναψε το φως στο εργαστήριο.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φώτα στο lab τώρα!", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να κάνεις πιο φωτεινό το εργαστήριο;", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ανάβουμε τα φώτα στο εργαστήριο;", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το εργαστήριο χρειάζεται φως.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να δουλέψω στο εργαστήριο, φώτισε το.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάνε πιο φωτεινό τον χώρο του εργαστηρίου.", "output": "lab-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε αμέσως το φως στο εργαστήριο.", "output": "lab-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the lights in the lab.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please deactivate the lab lighting.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off laboratory lights, please.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Darken the lab area.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the lights off in the lab.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you switch the laboratory lights off?", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Deactivate lab illumination immediately.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you please turn off the lights in the lab?", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure the lab lights are off.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I’d appreciate if you switch the lab lights off.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lab lighting off, please.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn laboratory illumination off now.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch laboratory lighting to OFF.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights out in the lab area.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want the lab lights deactivated.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you ensure the lab lights are turned off?", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Deactivate the laboratory's lights, please.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kill the lights in the lab.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut off laboratory lights.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please remove illumination from the lab.", "output": "lab-off"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the lights in the lab.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please deactivate the lab lighting.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off laboratory lights, please.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Darken the lab area.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the lights off in the lab.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you switch the laboratory lights off?", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Deactivate lab illumination immediately.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure the lab lights are off.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kill the lights in the lab.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lab lights off now, please.", "output": "lab-off"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τα φώτα στο εργαστήριο.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να σβήσω τα φώτα του εργαστηρίου.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε τα φώτα του εργαστηρίου τώρα.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε τα φώτα στο εργαστήριο.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να σβήσεις τα φώτα του εργαστηρίου;", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν θέλω άλλο φως στο εργαστήριο.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ σβήσε τα φώτα στο εργαστήριο.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βγάλε το φως στο εργαστήριο.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το εργαστήριο χρειάζεται σκοτάδι τώρα.", "output": "lab-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε το φως στο lab.", "output": "lab-off"}
+
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the meeting room lights.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate lights in the conference room.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch meeting room illumination on, please.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Illuminate the meeting room.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can we have the lights on in the meeting room?", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I’d like meeting room lighting activated.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please brighten the conference area.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you turn on the lights in the meeting area?", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Meeting room lights on now.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Light up the meeting room.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch conference room lights to ON.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let's have some lights in the meeting room.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make the conference room bright.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate meeting room lights, please.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights needed in the meeting area.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd appreciate if the meeting room lights are turned on.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn meeting illumination on.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Meeting lights activated, please.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you switch on the conference lighting?", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please turn on the lights for our meeting.", "output": "Meeting-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τα φώτα στην αίθουσα συνεδριάσεων.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω φως στην αίθουσα συσκέψεων.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ενεργοποιήσεις τον φωτισμό στην αίθουσα;", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε τα φώτα στην αίθουσα συναντήσεων.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φώτισε την αίθουσα συσκέψεων τώρα.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι φως για το meeting.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα ήθελα να ανάψεις τα φώτα στην αίθουσα συσκέψεων.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τα φώτα στην αίθουσα του meeting.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τον φωτισμό της συνεδρίασης.", "output": "Meeting-on"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε φως στην αίθουσα συναντήσεων.", "output": "Meeting-on"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the meeting room lights.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Deactivate lights in the conference room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch meeting room illumination off, please.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Darken the meeting room now.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please shut off the lights in the meeting area.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want the conference room lighting off.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you turn off the lights in the meeting room?", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Meeting room lights off immediately.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch conference room lights to OFF.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights out in the meeting area, please.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Meeting illumination off now.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you switch off the conference lighting?", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Deactivate the lights in the meeting room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please ensure the meeting room lights are off.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kill the lights in the conference room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut down the lighting in the meeting room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I prefer the meeting room to be dark now.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Make sure lights are turned off in the meeting room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off lights for the meeting.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lights in the meeting room off, please.", "output": "Meeting-off"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε τα φώτα στην αίθουσα συσκέψεων.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε τον φωτισμό της αίθουσας συνεδριάσεων.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τα φώτα στο meeting room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω σκοτάδι στην αίθουσα συσκέψεων.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βγάλε τον φωτισμό από την αίθουσα.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σκοτείνιασε την αίθουσα του meeting.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να σβήσεις τα φώτα;", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ σβήσε τον φωτισμό του meeting.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν χρειάζομαι άλλο φως στην αίθουσα.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε τον φωτισμό στην αίθουσα συνεδριάσεων.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα μπορούσες να σβήσεις τα φώτα του meeting;", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε τον φωτισμό αμέσως.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να κλείσεις τα φώτα στο conference room.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να κλείσεις τα φώτα στη συνεδρίαση;", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε όλα τα φώτα στην αίθουσα του meeting.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ σταμάτα τον φωτισμό στην αίθουσα.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σκοτείνιασε τον χώρο του meeting.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε τα φώτα τώρα στην αίθουσα συσκέψεων.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω σκοτάδι στην αίθουσα.", "output": "Meeting-off"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βγάλε τα φώτα του meeting.", "output": "Meeting-off"}

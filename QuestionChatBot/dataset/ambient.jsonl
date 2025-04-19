@@ -1,0 +1,84 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to relax now.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Put on some ambient noise.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start relaxing sounds.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play a chill sound.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want something relaxing.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Let’s relax with some ambient noise.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play ambient noise.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on relaxing background sounds.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I feel like relaxing.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me some peace and quiet sounds.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start ambient mode.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play any relaxing sound.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on chill audio.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you play something relaxing?", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Relaxation time.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Enable relaxation mode.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need a calm sound.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ambient audio please.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play soft background sound.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Set the mood with some ambient sound.", "output": "ambient-random"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop the ambient sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the background audio.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want silence.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kill the ambient music.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut down ambient sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please turn off the relaxing sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Mute the ambient sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "End the background noise.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Silence the ambient audio.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Enough of the ambient noise.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Cut off the relaxing sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I no longer need ambient sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Quiet the audio.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Deactivate ambient sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please stop the noise.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch off ambient audio.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Pause background sound.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut off relaxing audio.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "No more ambient music, please.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn it off.", "output": "ambient-stop"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Play forest rain.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to hear forest rain.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start the sound of forest rain.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you play the forest rain track?", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Forest rain ambiance please.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like the forest rain sound.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Forest rain background audio.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Relax me with forest rain.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can I hear some forest rain?", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Forest rain track on.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Rain in the forest, please.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Nature rain sound – forest.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play forest rain ambiance.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me forest rain sounds.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Launch forest rain mode.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want forest rain ambiance.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Put on forest rain track.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate forest rain sound.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Forest rain audio on.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ambient forest rain, please.", "output": "ambient-specific"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to sleep now.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Help me fall asleep.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play ambient sleep sound.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Put me to sleep with sound.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate sleep sound mode.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I’m trying to sleep, play something.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start relaxing sound for sleep.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Soothing sound to sleep please.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Enable sleep background sound.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on a sound for sleeping.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Sleep sound, auto-stop please.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need music to help me sleep.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Set sound to stop in a minute.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Soft sound for sleep, please.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play sleep-inducing ambient.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate sleeping audio.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Auto-stop sleep sound.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'm going to bed, play audio.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Prepare sleep ambient track.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Sleep mode on with sound.", "output": "ambient-sleep"}
+

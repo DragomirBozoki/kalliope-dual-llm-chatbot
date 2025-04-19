@@ -1,0 +1,126 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to hear the news.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the news radio.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play some news channel.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch on the radio for news.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like to listen to Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you start the news station?", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Launch Real FM radio.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Put on the latest news broadcast.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Enable news radio please.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please play Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "News station now.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want some news updates.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tune in to news radio.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start a news channel now.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like to hear what's happening.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start the station with news.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Launch a station with latest news.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch to Real FM radio.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start streaming the news radio.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to listen the radio.", "output": "run-web-radio"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Play some music.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to listen to music.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start the Lux station.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Launch the music radio.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Switch on Lux FM.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on some music.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stream the music station.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate the Lux station now.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like to listen to Lux FM.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Open the music channel.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lux music please.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Play music from the radio.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Music streaming now.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Lux FM on.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want Lux radio now.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you start music radio?", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Enable Lux station.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn Lux radio on.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Put some radio music on.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the music stream.", "output": "run-web-radio2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn off the radio.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop the radio playback.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I don't want to listen to the radio anymore.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Mute the radio.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Close the radio stream.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop the music station.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you shut the radio down?", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop playing the news.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want silence now.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Cut off the radio stream.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn the station off.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop Lux radio.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop Real FM now.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want the radio off.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you kill the radio music?", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop that stream.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Radio off, please.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Shut down the music.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Silence the radio stream.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "No more radio now.", "output": "stop-web-radio-stop-web-radio2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να ακούσω ειδήσεις.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε το ραδιόφωνο με τις ειδήσεις.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω ενημέρωση τώρα.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε ειδησεογραφικό σταθμό.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε τον Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να ακούσω Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε ραδιόφωνο για ειδήσεις.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα ειδήσεις στο ραδιόφωνο.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άκουσε νέα για μένα.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε σταθμό ειδήσεων.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω ειδήσεις τώρα.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε ειδήσεις στο ραδιόφωνο.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να μάθω τα νέα.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω νέα μέσω ραδιοφώνου.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ράδιο με ειδήσεις τώρα.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε Real FM.", "output": "run-web-radio"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε σταθμό Real FM.", "output": "run-web-radio"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε μουσική.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να ακούσω μουσική.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε Lux FM.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε μουσικό σταθμό.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε το ραδιόφωνο με μουσική.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε να παίζει μουσική από το ραδιόφωνο.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω Lux FM τώρα.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ανάψε τον Lux σταθμό.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε ραδιόφωνο με μουσική.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα Lux FM.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ράδιο μουσικής τώρα.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω χαλαρωτική μουσική από το ραδιόφωνο.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε κάποιο μουσικό κανάλι.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε το Lux.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε μουσική στο ραδιόφωνο.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ακούω Lux FM.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε μουσική τώρα.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να ξεκινήσει Lux FM.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μουσική από ραδιόφωνο.", "output": "run-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα μουσικό πρόγραμμα.", "output": "run-web-radio2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε το ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτα τη μουσική.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν θέλω άλλο ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σίγασε το ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον Real FM.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον Lux FM.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω ησυχία.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτα το Real FM.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε το ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μην παίζει άλλο ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε σίγαση στο ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Διακοπή μουσικής.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον ήχο του σταθμού.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε το stream.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να σταματήσει το ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτα το Lux τώρα.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε τέλος στο ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ράδιο τέλος.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κόψε το ραδιόφωνο.", "output": "stop-web-radio-stop-web-radio2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Διακοπή ραδιοφωνικής ροής.", "output": "stop-web-radio-stop-web-radio2"}

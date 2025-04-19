@@ -1,0 +1,382 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο πρύτανης στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξέρεις ποιος είναι ο πρύτανης στο ΠΑΠΕΛ;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι επικεφαλής του Πανεπιστημίου Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις τον πρύτανη του ιδρύματος;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το όνομα του πρύτανη στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος διοικεί το Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο νυν πρύτανης στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι υπεύθυνος στο ΠΑΠΕΛ;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος έχει τη θέση του πρύτανη στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο καθηγητής που είναι πρύτανης στο ΠΑΠΕΛ;", "output": "gen-inst"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο πρύτανης στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξέρεις ποιος είναι ο πρύτανης στο ΠΑΠΕΛ;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι επικεφαλής του Πανεπιστημίου Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις τον πρύτανη του ιδρύματος;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το όνομα του πρύτανη στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος διοικεί το Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο νυν πρύτανης στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι υπεύθυνος στο ΠΑΠΕΛ;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος έχει τη θέση του πρύτανη στο Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο καθηγητής που είναι πρύτανης στο ΠΑΠΕΛ;", "output": "gen-inst"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Does the institution have a special research account?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there a special fund at the university?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Does the university manage a research funding account?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there a special account for research projects?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do they use a specific account for research?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there an official fund for research and grants?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Does the university have a special fund for research?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there a designated research account?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we have a special budget for research?", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Does the institution operate a special research account?", "output": "gen-inst2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχει το ίδρυμα ειδικό λογαριασμό;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχει ειδικός λογαριασμός στο πανεπιστήμιο;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρησιμοποιεί το πανεπιστήμιο ειδικό λογαριασμό;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχουν ειδικό λογαριασμό για έρευνες;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχει λογαριασμός κονδυλίων στο ίδρυμα;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Γνωρίζεις αν υπάρχει ειδικό ταμείο;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχει το ίδρυμα λογαριασμό για χρηματοδότηση;", "output": "gen-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχει επίσημος ειδικός λογαριασμός;", "output": "gen-inst2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the president of the special account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who's in charge of the special research fund?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me who manages the special account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the head of the university's special account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who's the director of the special funding account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is responsible for the research account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who leads the special university account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who's the president of the special fund?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who manages the university’s special account?", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the official in charge of the special account?", "output": "gen-inst3"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι πρόεδρος του ειδικού λογαριασμού;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι υπεύθυνος του ειδικού λογαριασμού;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος διαχειρίζεται τον ειδικό λογαριασμό;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξέρεις ποιος είναι πρόεδρος του ΕΛΚΕ;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι επικεφαλής του ειδικού λογαριασμού;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος προεδρεύει του ειδικού ταμείου;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι αρμόδιος για τον ειδικό λογαριασμό;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μου πεις ποιος είναι υπεύθυνος για τον ΕΛΚΕ;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι διαχειριστής του ειδικού λογαριασμού;", "output": "gen-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος ηγείται του ειδικού λογαριασμού;", "output": "gen-inst3"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know any vice-rector of the institution?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you name a vice-rector from the university?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are you aware of any vice-rector at the institution?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me a vice-rector who works at the university.", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know someone who's a vice-rector there?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there any vice-rector you can name?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Name one of the university's vice-rectors.", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me about any vice-rector?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know a vice-rector who works there?", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Mention a vice-rector at the institution.", "output": "gen-inst4"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "ξέρεις κάποιον αντιπρύτανη του ιδρύματος;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "γνωρίζεις αντιπρύτανη του πανεπιστημίου;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μου πεις έναν αντιπρύτανη;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "υπάρχει κάποιος αντιπρύτανης που ξέρεις;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου ένα όνομα αντιπρύτανη από το ίδρυμα.", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιον αντιπρύτανη γνωρίζεις;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "γνωρίζεις κάποιον από τους αντιπρυτάνεις;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι ένας από τους αντιπρυτάνεις;", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου κάποιον αντιπρύτανη του ιδρύματος.", "output": "gen-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξέρεις κάποιον που είναι αντιπρύτανης;", "output": "gen-inst4"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know another vice-rector at the institution?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there a different vice-rector you know?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you name a second vice-rector?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who else is a vice-rector at the university?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me about another vice-rector.", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know someone else who is a vice-rector?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there another vice-rector you can mention?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Mention a different vice-rector.", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who’s the other vice-rector?", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you list more vice-rectors?", "output": "gen-inst5"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "ξέρεις άλλο αντιπρύτανη του ιδρύματος;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιος είναι ο άλλος αντιπρύτανης;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "γνωρίζεις άλλον αντιπρύτανη;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου και άλλο αντιπρύτανη του πανεπιστημίου.", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "υπάρχει άλλος αντιπρύτανης;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου κάποιον άλλον αντιπρύτανη.", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ξέρεις και άλλον αντιπρύτανη εκεί;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μου πεις κι άλλον αντιπρύτανη;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "υπάρχουν και άλλοι αντιπρυτάνεις;", "output": "gen-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιοι είναι οι υπόλοιποι αντιπρυτάνεις;", "output": "gen-inst5"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "How many schools does the university have?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you list the university’s schools?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What schools exist at the institution?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How many faculties are there?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Name all the university’s schools.", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How many different schools does the university include?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me how many schools are part of the university?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are the university schools?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me the names of all schools.", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What faculties make up the institution?", "output": "gen-inst6"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "How many schools does the university have?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you list the university’s schools?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What schools exist at the institution?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How many faculties are there?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Name all the university’s schools.", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How many different schools does the university include?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me how many schools are part of the university?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are the university schools?", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me the names of all schools.", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What faculties make up the institution?", "output": "gen-inst6"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "πόσες σχολές έχει το ίδρυμα;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μου πεις ποιες σχολές έχει το πανεπιστήμιο;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι τα ονόματα των σχολών;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πόσες διαφορετικές σχολές υπάρχουν στο ίδρυμα;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιες σχολές περιλαμβάνει το πανεπιστήμιο;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πόσα τμήματα έχει το πανεπιστήμιο;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποιες σχολές λειτουργούν στο ίδρυμα;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τι σχολές έχει το Πανεπιστήμιο Πελοποννήσου;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να αναφέρεις τις σχολές;", "output": "gen-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι τα ονόματα των σχολών του ιδρύματος;", "output": "gen-inst6"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Which school does the department of computer engineering belong to?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "To which faculty is the computer engineering department assigned?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What school is the department of informatics part of?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "The computer engineering program is under which school?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "In which school is the computer science department?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where does the software engineering department belong?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What school hosts the computer engineering division?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which school is responsible for computer engineering?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who governs the department of informatics?", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Computer engineering belongs to which academic school?", "output": "my-inst0"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποια σχολή ανήκει το τμήμα μηχανικών πληροφορικής;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι η σχολή του τμήματος πληροφορικής;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το τμήμα πληροφορικής ανήκει σε ποια σχολή;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σε ποια σχολή υπάγεται το τμήμα μηχανικών πληροφορικής;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια σχολή περιλαμβάνει το τμήμα πληροφορικής;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το τμήμα μηχανικών πληροφορικής σε ποια σχολή ανήκει;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η σχολή του τμήματος μηχανικών πληροφορικής;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποιο πεδίο ανήκει το τμήμα πληροφορικής;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το τμήμα πληροφορικής σε ποια σχολή υπάγεται;", "output": "my-inst0"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου τη σχολή του τμήματος πληροφορικής.", "output": "my-inst0"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Where is the department of computer engineering located?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What city is the computer engineering department in?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me the location of the department of informatics?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where can I find the department of computer science?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which campus is the computer engineering department on?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the address of the computer engineering department?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where exactly is the informatics department based?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "In which region is the computer engineering department?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Where do students attend classes for computer engineering?", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which place hosts the computer engineering department?", "output": "my-inst1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Που είναι το τμήμα μηχανικών πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποια πόλη βρίσκεται το τμήμα πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις που είναι το τμήμα μηχανικών πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού ακριβώς είναι το τμήμα πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η τοποθεσία του τμήματος μηχανικών πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού στεγάζεται το τμήμα πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποιο campus είναι το τμήμα πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η διεύθυνση του τμήματος μηχανικών πληροφορικής;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το τμήμα πληροφορικής βρίσκεται στο Αντίρριο;", "output": "my-inst1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποιο μέρος βρίσκεται το τμήμα μηχανικών πληροφορικής;", "output": "my-inst1"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the head of the department?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me the department chair?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the president of the computer engineering department?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is currently running the department?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who leads the informatics department?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the name of the department’s president?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the leader of the department?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me who the director of the department is.", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is the department supervisor?", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to know who’s in charge of the department.", "output": "my-inst2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο πρόεδρος του τμήματος;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις ποιος είναι ο πρόεδρος του τμήματος;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος διευθύνει το τμήμα;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι υπεύθυνος για το τμήμα;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο επικεφαλής του τμήματος;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο καθηγητής που είναι πρόεδρος του τμήματος;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να μάθω τον πρόεδρο του τμήματος.", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο διευθυντής του τμήματος;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι υπεύθυνος για το τμήμα μηχανικών πληροφορικής;", "output": "my-inst2"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξέρεις ποιος είναι πρόεδρος στο τμήμα μας;", "output": "my-inst2"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What programs of study are available in our department?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me about the study programs in our department.", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which academic programs does our department have?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What courses does the department offer?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What degrees can you pursue in our department?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What undergraduate and graduate programs are there?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What kind of study paths are provided?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you list the programs offered in this department?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What types of programs does the CS department offer?", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which educational programs are included?", "output": "my-inst3"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι προγράμματα σπουδών έχει το τμήμα μας;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις τα προγράμματα του τμήματος;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια προγράμματα υπάρχουν στο τμήμα;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια προγράμματα σπουδών προσφέρει το τμήμα;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχει το τμήμα προπτυχιακό και μεταπτυχιακό πρόγραμμα;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι τα διαθέσιμα προγράμματα σπουδών;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να αναφέρεις τα προγράμματα σπουδών;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι επιλογές σπουδών προσφέρει το τμήμα μας;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι τα βασικά προγράμματα του τμήματος;", "output": "my-inst3"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου για τα προγράμματα σπουδών του τμήματος.", "output": "my-inst3"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What degree do I get from the undergraduate program?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which diploma does the bachelor's program award?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What title does the undergraduate course give?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the outcome of the undergraduate studies?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What qualification will I have after the bachelor's program?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What degree title does the undergrad program give?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What do I become after finishing the undergraduate?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What academic degree is granted by the bachelor's course?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me the degree I get from this program?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What diploma do undergrad students receive?", "output": "my-inst4"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What degree do I get from the undergraduate program?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which diploma does the bachelor's program award?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What title does the undergraduate course give?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the outcome of the undergraduate studies?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What qualification will I have after the bachelor's program?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What degree title does the undergrad program give?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What do I become after finishing the undergraduate?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What academic degree is granted by the bachelor's course?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me the degree I get from this program?", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What diploma do undergrad students receive?", "output": "my-inst4"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι πτυχίο δίνει το προπτυχιακό πρόγραμμα;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι τίτλο σπουδών παίρνω με το προπτυχιακό;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το πτυχίο που χορηγείται από το πρόγραμμα;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Με τι πτυχίο αποφοιτώ από το προπτυχιακό;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο τίτλος σπουδών του προγράμματος;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι πτυχίο παίρνει ένας φοιτητής με το προπτυχιακό;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο πτυχίο δίνει αυτό το πρόγραμμα;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το αποτέλεσμα του προπτυχιακού;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι τίτλο αποκτώ με την ολοκλήρωση του προγράμματος;", "output": "my-inst4"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Με ποιο πτυχίο φεύγει κανείς από το τμήμα;", "output": "my-inst4"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What degree does the master's program provide?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What diploma is awarded from the postgraduate program?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What title does the master’s course give?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What qualification will I get after the master's?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What academic degree is given from the master's program?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What do I receive after completing the postgraduate program?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me what degree the MSc gives?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What kind of master's diploma do I get?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What degree is granted upon graduation from the master?", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the award from the master's program?", "output": "my-inst5"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι πτυχίο δίνει το μεταπτυχιακό πρόγραμμα;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο πτυχίο παίρνω από το μεταπτυχιακό;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο τίτλος του μεταπτυχιακού προγράμματος;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο πτυχίο απονέμεται με το MSc;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι δίπλωμα δίνει το μεταπτυχιακό;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι τίτλο αποκτώ με το μεταπτυχιακό;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι τίτλος δίνεται από το μεταπτυχιακό;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι απονέμεται στους αποφοίτους του μεταπτυχιακού;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το αποτέλεσμα του MSc;", "output": "my-inst5"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι πιστοποιητικό παίρνω από το μεταπτυχιακό;", "output": "my-inst5"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What do master's graduates specialize in?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the focus area of the master's program graduates?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "In which technologies are master's graduates trained?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What field are the master's students specialized in?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What expertise do the postgraduate graduates gain?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the area of specialization for master's holders?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What technical skills does the master’s program focus on?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What specific area does the master's train students in?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What technologies are covered in the postgraduate program?", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Which systems are taught in the MSc program?", "output": "my-inst6"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε τι ειδικεύονται οι απόφοιτοι του μεταπτυχιακού;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η ειδίκευση του μεταπτυχιακού;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιοι είναι οι τομείς ειδίκευσης στο MSc;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποιες τεχνολογίες ειδικεύονται οι φοιτητές;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιες γνώσεις αποκτούν οι μεταπτυχιακοί φοιτητές;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η θεματική του προγράμματος;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι μαθαίνουν οι απόφοιτοι του μεταπτυχιακού;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποιους τομείς εξειδικεύονται οι απόφοιτοι;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιες δεξιότητες παρέχει το μεταπτυχιακό;", "output": "my-inst6"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το αντικείμενο εξειδίκευσης;", "output": "my-inst6"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Are your creators part of a research lab?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do your developers belong to a research team?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are your makers affiliated with any research group?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is your team part of any lab?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do your engineers work in a research lab?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are your creators associated with a university lab?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do your developers conduct research?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are your creators researchers?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are your inventors part of a scientific lab?", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is there a research group behind you?", "output": "my-inst7"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι δημιουργοί σου ανήκουν σε κάποιο εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ανήκουν οι δημιουργοί σου σε ερευνητικό εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι υπεύθυνοι σου είναι σε κάποιο εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι δημιουργοί σου δουλεύουν σε κάποιο εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Η ομάδα σου είναι σε ερευνητικό εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι δημιουργοί σου σχετίζονται με πανεπιστημιακό εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι υπεύθυνοι για σένα κάνουν έρευνα;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι προγραμματιστές σου είναι σε κάποιο εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Οι επιστήμονες σου δουλεύουν σε εργαστήριο;", "output": "my-inst7"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ανήκεις σε κάποιο ερευνητικό έργο;", "output": "my-inst7"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What does the embedded systems lab do?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is the focus of the lab of embedded systems and applications?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What kind of research does the embedded systems lab perform?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are the activities of the embedded systems design lab?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What fields does the embedded systems lab specialize in?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me what your lab focuses on?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What's the research domain of the embedded systems team?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What technology does the lab work on?", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me about the lab’s work.", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What does your research lab study?", "output": "my-inst8"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Με τι ασχολείται το εργαστήριο ενσωματωμένων συστημάτων;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το αντικείμενο του εργαστηρίου σχεδιασμού ενσωματωμένων συστημάτων;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι μελετά το εργαστήριο ενσωματωμένων συστημάτων;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιοι είναι οι τομείς του εργαστηρίου σου;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε ποιους τομείς εξειδικεύεται το εργαστήριο εφαρμογών;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου με τι ασχολείται το ερευνητικό σου εργαστήριο;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο είναι το ερευνητικό πεδίο του εργαστηρίου;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια τεχνολογία δουλεύει το εργαστήριο;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι κάνουν στο εργαστήριο ενσωματωμένων;", "output": "my-inst8"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι αντικείμενο έχει το εργαστήριο σχεδιασμού συστημάτων;", "output": "my-inst8"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there any labs related to software?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we have any software-focused labs?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there research labs for software?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Any software labs in the department?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do software-oriented research labs exist in our school?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there any academic labs focused on software?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What software labs are available in the faculty?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we have labs in the software area?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there any programming-related labs?", "output": "my-inst9"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is software research done in any lab?", "output": "my-inst9"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there labs in telecommunications?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Does the department have any telecom labs?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there research labs focused on telecommunications?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Any labs working on network technologies?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we have telecom-related research labs?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there academic labs for telecommunications systems?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What labs work on signal processing and telecom?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are telecommunications covered by any lab?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we have labs focused on telecom systems?", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are there any digital signal labs?", "output": "my-inst10"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχουν εργαστήρια στις τηλεπικοινωνίες;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το τμήμα έχει εργαστήρια τηλεπικοινωνιών;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχουν εργαστήρια για τεχνολογίες δικτύου;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχει η σχολή εργαστήρια τηλεπικοινωνιακών συστημάτων;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Γίνεται έρευνα στις τηλεπικοινωνίες σε κάποιο εργαστήριο;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχουμε εργαστήρια ψηφιακής επεξεργασίας σήματος;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιο εργαστήριο ασχολείται με τις τηλεπικοινωνίες;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχουν ειδικά εργαστήρια για τηλεπικοινωνίες;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Το τμήμα έχει telecom labs;", "output": "my-inst10"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Υπάρχουν πανεπιστημιακά εργαστήρια τηλεπικοινωνιών;", "output": "my-inst10"}

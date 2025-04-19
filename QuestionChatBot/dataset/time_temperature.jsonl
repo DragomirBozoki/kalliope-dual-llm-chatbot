@@ -1,0 +1,87 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "τι ώρα είναι;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μου πεις την ώρα;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι η ώρα τώρα;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "θέλω να μάθω την ώρα", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να δείξεις την ώρα;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τι δείχνει το ρολόι;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "μπορείς να μου πεις πόσο είναι η ώρα;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι αργά;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τι ώρα έχει τώρα;", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σε παρακαλώ πες μου την ώρα", "output": "say-local-date"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What time is it?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me the time?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s the current time?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need to know the time.", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me what time it is.", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Could you display the time?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is it late now?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What does the clock say?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you show me the time?", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please tell me the current time.", "output": "say-local-date"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "πόσο έχουμε σήμερα;", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι η σημερινή ημερομηνία;", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου την ημερομηνία", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια μέρα είναι σήμερα;", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου ποια μέρα έχουμε", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "τι ημερομηνία έχουμε;", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "σήμερα είναι τι;", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι η ημερομηνία σήμερα;", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πες μου την ημερομηνία που έχουμε", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ημερομηνία παρακαλώ", "output": "say-local-date-from-template"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s today’s date?", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me today’s date?", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me the current date.", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What date is it today?", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What day is it today?", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me today’s date.", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you know what day it is?", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you provide today’s date?", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Show me today’s date.", "output": "say-local-date-from-template"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I’d like to know the date.", "output": "say-local-date-from-template"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι ώρα να φεύγουμε;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πρέπει να φύγουμε τώρα;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι η ώρα να πάμε;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πότε φεύγουμε;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι ώρα αποχώρησης;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να ετοιμαστούμε να φύγουμε;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "πρέπει να ετοιμαστούμε;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "είναι ώρα αναχώρησης;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "φεύγουμε τώρα;", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "να σηκωθούμε να φύγουμε;", "output": "tea-time"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Is it time to leave?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Should we go now?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Time to head out?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is it time to go?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we need to leave now?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Should we get ready to leave?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Time to go?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do we leave now?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are we leaving soon?", "output": "tea-time"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Should we prepare to go?", "output": "tea-time"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου τη θερμοκρασία.", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η θερμοκρασία τώρα;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μου πεις τη θερμοκρασία;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι θερμοκρασία έχουμε σήμερα;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πόσο κάνει έξω;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πόσους βαθμούς έχουμε;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η θερμοκρασία αυτή τη στιγμή;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πες μου τη σημερινή θερμοκρασία.", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πόσους βαθμούς Κελσίου έχει;", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έχει ζέστη ή κρύο;", "output": "saytemp"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me the temperature.", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s the current temperature?", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How hot is it right now?", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is it hot or cold?", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Give me the temperature reading.", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you tell me the current temperature?", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How many degrees is it?", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What’s the weather like temperature-wise?", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I want to know the temperature.", "output": "saytemp"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Is it warm today?", "output": "saytemp"}

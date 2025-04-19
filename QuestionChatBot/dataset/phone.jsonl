@@ -1,0 +1,41 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "Where’s my phone?", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I can’t find my phone.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Call my phone please.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ring my phone.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you call my cell?", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Help me locate my phone.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Phone’s missing, call it.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Trigger phone ring.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start a call to my mobile.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you make my phone ring?", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Dial my phone.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Locate my phone with a call.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I need to find my phone, call it.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you ping my phone?", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Phone finder mode, please.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Activate phone ring.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ring up my cell.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I lost my phone, make it ring.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Start phone finding action.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ping my phone device.", "output": "find-my-phone"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού είναι το κινητό μου;", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν μπορώ να βρω το τηλέφωνό μου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάλεσε το κινητό μου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να χτυπήσεις το τηλέφωνό μου;", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χτύπα το κινητό.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βρες το τηλέφωνό μου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χάθηκε το τηλέφωνό μου, βοήθησέ με.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να το καλέσεις;", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να εντοπίσω το τηλέφωνό μου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χάθηκε το κινητό μου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε λειτουργία εύρεσης τηλεφώνου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πάτησε να χτυπήσει το τηλέφωνο.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να το κάνεις να χτυπήσει;", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάλεσε το κινητό τηλέφωνο.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Εντόπισε το κινητό μέσω κλήσης.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να το κάνεις να χτυπήσει.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χτύπα το κινητό μου τώρα.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πού άφησα το τηλέφωνό μου;", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κάνε μια κλήση στο τηλέφωνό μου.", "output": "find-my-phone"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να βρω το κινητό μου, κάλεσέ το.", "output": "find-my-phone"}
