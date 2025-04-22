@@ -1,6 +1,7 @@
 # ========== Imports ==========
 from datasets import load_dataset
-
+import traceback
+from config.preprocessing import TextPreprocessor
 from transformers import (
     AutoModelForSequenceClassification,
     AutoTokenizer,
@@ -8,54 +9,49 @@ from transformers import (
     TrainingArguments,
     TrainerCallback
 )
-
 from config.labels import label2id, id2label  # Output labels mapping
-
 import torch
 import os
 import random
 from collections import defaultdict
-from callbacks import SaveEveryNEpochsCallback
+from QuestionChatBot.config.callbacks import SaveEveryNEpochsCallback
 
-
-# ========== Tokenizer & Model Name ==========
+# ========== Preprocessor & Tokenizer Initialization ==========
+preprocessor = TextPreprocessor(language="en")
 model_name = "distilbert-base-multilingual-cased"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 # ========== Load Dataset ==========
-dataset = load_dataset("json", data_files="./Chatgpt_testground/QuestionChatBot/dataset/*.jsonl")
-
-# ========== Reverse Mapping for Model Output ==========
-id2label = {v: k for k, v in label2id.items()}
+try:
+    dataset = load_dataset("json", data_files="dataset/*.jsonl")
+except Exception as e:
+    traceback.print_exc()
+    raise e  # Important to stop training if dataset loading fails
 
 # ========== Tokenization Function ==========
 def tokenize_fn(examples):
-    texts = [f"{instr} {inp}" for instr, inp in zip(examples["instruction"], examples["input"])]
-    tokenized = tokenizer(texts, truncation=True, padding="max_length", max_length=16)
+    # Preprocess and concatenate instruction + input fields
+    texts = [
+        f"{preprocessor.preprocess(instr)} {preprocessor.preprocess(inp)}"
+        for instr, inp in zip(examples['instruction'], examples['input'])
+    ]
+
+    # Tokenize using pre-trained BERT tokenizer
+    tokenized = tokenizer(
+        texts,
+        truncation=True,
+        padding="max_length",
+        max_length=16  # Adjust if needed based on your data
+    )
+
+    # Convert textual output labels to numeric class indices
     tokenized["labels"] = [label2id[label] for label in examples["output"]]
     return tokenized
 
-# Apply tokenization
+# ========== Tokenize Dataset ==========
 tokenized_dataset = dataset.map(tokenize_fn, batched=True)
 
-# ========== Create a Small Balanced Subset for Testing ==========
-n_per_class = 5
-class_to_examples = defaultdict(list)
-
-# Group samples by class
-for i, example in enumerate(tokenized_dataset["train"]):
-    label = example["labels"]
-    class_to_examples[label].append(i)
-
-# Sample up to N examples per class
-selected_indices = []
-for indices in class_to_examples.values():
-    selected_indices.extend(random.sample(indices, min(len(indices), n_per_class)))
-
-# Create small subset (for quick testing)
-small_dataset = tokenized_dataset["train"].select(selected_indices)
-
-# ========== Initialize Model ==========
+# ========== Model Initialization ==========
 model = AutoModelForSequenceClassification.from_pretrained(
     model_name,
     num_labels=len(label2id),
@@ -65,29 +61,34 @@ model = AutoModelForSequenceClassification.from_pretrained(
 
 # ========== Training Arguments ==========
 training_args = TrainingArguments(
-    output_dir="models/intent-multi-model_save_epoch",
+    output_dir="models/intent-multi-model_save_epoch",  # Where to save checkpoints
     num_train_epochs=50,
     per_device_train_batch_size=2,
     learning_rate=2e-5,
     logging_steps=10,
-    logging_dir="./logs",  # For TensorBoard
-    save_strategy="no",
-    evaluation_strategy="no",
-    report_to="tensorboard",  # Enable TensorBoard logging
+    logging_dir="./logs",  # TensorBoard logging directory
+    save_strategy="no",  # We use custom callback instead
+    evaluation_strategy="no",  # Turn off evaluation if not needed
+    report_to="tensorboard"  # Enable TensorBoard integration
 )
 
-# ========== Trainer ==========
+# ========== Trainer Initialization ==========
 trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_dataset["train"],
     tokenizer=tokenizer,
-    callbacks=[SaveEveryNEpochsCallback(save_every_n_epochs=10, output_dir="models/intent-multi-model_save_epoch")]
+    callbacks=[
+        SaveEveryNEpochsCallback(
+            save_every_n_epochs=10,
+            output_dir="models/intent-multi-model_save_epoch"
+        )
+    ]
 )
 
-# ========== Train ==========
+# ========== Train the Model ==========
 trainer.train()
 
-# ========== Final Save ==========
+# ========== Save Final Model ==========
 trainer.save_model("models/intent-medium-model-multilang-v2.0")
 print("✅ Training completed and model saved!")

@@ -1,4 +1,5 @@
 from transformers import TrainerCallback
+import os
 
 class SaveEveryNEpochsCallback(TrainerCallback):
     def __init__(self, save_every_n_epochs, output_dir):
