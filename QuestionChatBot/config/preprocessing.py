@@ -24,20 +24,30 @@ class TextPreprocessor:
         if self.language == "en" and not self.is_greek(text):
             text = re.sub(r"[^a-z0-9\s]", "", text)
 
-        # Replace multiple spaces with a single one
-        text = re.sub(r"\s+", " ", text)
+        elif self.language == "gr":
+            pass  # Leave Greek text as-is, just clean whitespace
 
+        elif self.language == "auto":
+            if not self.is_greek(text):
+                text = re.sub(r"[^a-z0-9\s]", "", text)
+
+        # Normalize whitespace
+        text = re.sub(r"\s+", " ", text)
         return text
 
     def correct_typo(self, text):
-        # Skip correction if spell checker is not initialized
+        # Skip correction if it's Greek or no spellchecker available
+        if self.language == "gr" or (self.language == "auto" and self.is_greek(text)):
+            return text
+
         if self.spell is None:
             return text
 
         corrected_words = []
         for word in text.split():
             if word not in self.spell:
-                corrected_words.append(self.spell.correction(word))
+                correction = self.spell.correction(word)
+                corrected_words.append(correction if correction else word)
             else:
                 corrected_words.append(word)
 
