@@ -14,10 +14,10 @@ import torch
 import os
 import random
 from collections import defaultdict
-from QuestionChatBot.config.callbacks import SaveEveryNEpochsCallback
+from config.callbacks import PrintPredictionCallback, SaveEveryNEpochsCallback
 
 # ========== Preprocessor & Tokenizer Initialization ==========
-preprocessor = TextPreprocessor(language="en")
+preprocessor = TextPreprocessor(language="auto")
 model_name = "distilbert-base-multilingual-cased"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
@@ -82,7 +82,8 @@ trainer = Trainer(
         SaveEveryNEpochsCallback(
             save_every_n_epochs=10,
             output_dir="models/intent-multi-model_save_epoch"
-        )
+        ),
+        PrintPredictionCallback(tokenizer, model, dataset["train"], print_every_n_epoch=5)
     ]
 )
 
