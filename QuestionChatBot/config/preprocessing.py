@@ -4,6 +4,7 @@ import re
 from spellchecker import SpellChecker
 
 class TextPreprocessor:
+
     def __init__(self, language="en"):
         # Save language setting, and initialize spell checker only for English
         self.language = language
@@ -54,6 +55,7 @@ class TextPreprocessor:
         return " ".join(corrected_words)
 
     def preprocess(self, text):
+        
         # First normalize, then correct typos
         text = self.normalize_text(text)
         text = self.correct_typo(text)

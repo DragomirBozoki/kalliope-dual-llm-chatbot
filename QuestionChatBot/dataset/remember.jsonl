@@ -18,6 +18,7 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Tell me to stop the washing machine in 60 seconds", "output": "remember-synapse"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Ping me to open the windows in 30 seconds", "output": "remember-synapse"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Notify me to check the toast in 50 seconds", "output": "remember-synapse"}
+
 {"instruction": "Classify the intent of the following sentence.", "input": "να ανοίξω την πόρτα σε 20 δευτερόλεπτα", "output": "remember-synapse"}
 {"instruction": "Classify the intent of the following sentence.", "input": "να πάρω τα ρούχα από το πλυντήριο σε 55 δευτερόλεπτα", "output": "remember-synapse"}
 {"instruction": "Classify the intent of the following sentence.", "input": "να απαντήσω στο email σε 60 δευτερόλεπτα", "output": "remember-synapse"}

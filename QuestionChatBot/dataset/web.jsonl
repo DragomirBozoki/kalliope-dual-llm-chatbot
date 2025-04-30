@@ -19,9 +19,31 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Please launch esda site.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Take me online to ESDA.", "output": "run-web-esda"}
 
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε το ίντερνετ.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Εκκίνησε τον περιηγητή τώρα.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να περιηγηθώ στο διαδίκτυο.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα το ίντερνετ, σε παρακαλώ.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να ανοίξεις τον ιστότοπο;", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Φόρτωσε τον ιστότοπο esda-lab.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε τον περιηγητή.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι να ανοίξεις το ίντερνετ.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πήγαινε στο esda-lab.gr", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα τον Firefox και άνοιξε το ίντερνετ.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε μια καρτέλα περιηγητή για το εργαστήριο ESDA.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δείξε μου τον ιστότοπο esda.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τρέξε τον ιστότοπο esda-lab.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να επισκεφτώ το esda-lab.gr", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να φορτώσεις τη σελίδα ίντερνετ;", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ίντερνετ, παρακαλώ.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε το ίντερνετ τώρα.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τον περιηγητή.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ εκκίνησε τον ιστότοπο esda.", "output": "run-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πάρε με online στο ESDA.", "output": "run-web-esda"}
+
+
 {"instruction": "Classify the intent of the following sentence.", "input": "Close the internet.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Shut down the browser.", "output": "close-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Stop Firefox.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Stop Google.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Exit the web browser.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "I want to close the internet now.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Can you quit the browser?", "output": "close-web-esda"}
@@ -39,4 +61,25 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "I want to turn off the web.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Browser off, please.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Stop browsing now.", "output": "close-web-esda"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε το ίντερνετ.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον περιηγητή.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτα το Google.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Έξοδος από τον περιηγητή.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να κλείσω το ίντερνετ τώρα.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να κλείσεις τον περιηγητή;", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσε το παράθυρο του ίντερνετ.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σε παρακαλώ κλείσε τον Firefox.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βγες από το esda-lab.gr τώρα.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άφησε τον ιστότοπο τώρα.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε το παράθυρο του περιηγητή.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τερμάτισε τη διαδικτυακή συνεδρία.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βγες από τον ιστότοπο ESDA.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτησε τη σελίδα ίντερνετ.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να κλείσεις τον περιηγητή;", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σκότωσε την καρτέλα του Firefox, σε παρακαλώ.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε την καρτέλα του esda-lab.gr.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να κλείσω το διαδίκτυο.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον περιηγητή, παρακαλώ.", "output": "close-web-esda"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτα την περιήγηση τώρα.", "output": "close-web-esda"}
 

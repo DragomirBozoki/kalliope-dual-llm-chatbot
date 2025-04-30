@@ -2,6 +2,7 @@
 transformers==4.39.3
 datasets==2.18.0
 torch==2.2.2
+pyspellchecker=0.8.2
 
 # Optional for logging & monitoring
 tensorboard==2.16.2

@@ -19,6 +19,28 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Play soft background sound.", "output": "ambient-random"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Set the mood with some ambient sound.", "output": "ambient-random"}
 
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να χαλαρώσω τώρα.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε λίγο ambient ήχο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα χαλαρωτικούς ήχους.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε έναν ήρεμο ήχο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω κάτι χαλαρωτικό.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ας χαλαρώσουμε με λίγο ambient ήχο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε ambient ήχο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε χαλαρωτικούς ήχους στο παρασκήνιο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Νιώθω ότι θέλω να χαλαρώσω.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δώσε μου ήχους γαλήνης και ησυχίας.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα λειτουργία ambient.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε οποιονδήποτε χαλαρωτικό ήχο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε ήχο χαλάρωσης.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να παίξεις κάτι χαλαρωτικό;", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ώρα για χαλάρωση.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε λειτουργία χαλάρωσης.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι έναν ήρεμο ήχο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ambient ήχος παρακαλώ.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε έναν ήπιο ήχο στο παρασκήνιο.", "output": "ambient-random"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δημιούργησε ατμόσφαιρα με ambient ήχο.", "output": "ambient-random"}
+
+
 {"instruction": "Classify the intent of the following sentence.", "input": "Stop the ambient sound.", "output": "ambient-stop"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Turn off the background audio.", "output": "ambient-stop"}
 {"instruction": "Classify the intent of the following sentence.", "input": "I want silence.", "output": "ambient-stop"}
@@ -39,6 +61,27 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Shut off relaxing audio.", "output": "ambient-stop"}
 {"instruction": "Classify the intent of the following sentence.", "input": "No more ambient music, please.", "output": "ambient-stop"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Turn it off.", "output": "ambient-stop"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Σταμάτησε τον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον ήχο στο παρασκήνιο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω ησυχία.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σκότωσε τη μουσική χαλάρωσης.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ απενεργοποίησε τον χαλαρωτικό ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε σίγαση στον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τερμάτισε τον ήχο στο παρασκήνιο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σίγασε τον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Αρκετά με τον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κόψε τον χαλαρωτικό ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δεν χρειάζομαι άλλο ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χαμήλωσε τον ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Απενεργοποίησε τον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ σταμάτησε τον θόρυβο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον ambient ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πάγωσε τον ήχο παρασκηνίου.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Κλείσε τον χαλαρωτικό ήχο.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Όχι άλλο ambient μουσική, παρακαλώ.", "output": "ambient-stop"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Σβήσ’ το.", "output": "ambient-stop"}
 
 {"instruction": "Classify the intent of the following sentence.", "input": "Play forest rain.", "output": "ambient-specific"}
 {"instruction": "Classify the intent of the following sentence.", "input": "I want to hear forest rain.", "output": "ambient-specific"}
@@ -61,6 +104,27 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Forest rain audio on.", "output": "ambient-specific"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Ambient forest rain, please.", "output": "ambient-specific"}
 
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε ήχο βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να ακούσω βροχή στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα τον ήχο της βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να παίξεις το κομμάτι βροχής στο δάσος;", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ατμόσφαιρα βροχής στο δάσος, παρακαλώ.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θα ήθελα τον ήχο της βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ήχος παρασκηνίου βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χαλάρωσέ με με ήχο βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορώ να ακούσω λίγη βροχή στο δάσος;", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε το κομμάτι βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βροχή στο δάσος, παρακαλώ.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ήχος βροχής στη φύση – δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε ατμόσφαιρα βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Δώσε μου ήχους βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα λειτουργία βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω ατμόσφαιρα βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε το κομμάτι βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε τον ήχο βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άναψε τον ήχο βροχής στο δάσος.", "output": "ambient-specific"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ambient ήχος βροχής στο δάσος, παρακαλώ.", "output": "ambient-specific"}
+
 {"instruction": "Classify the intent of the following sentence.", "input": "I want to sleep now.", "output": "ambient-sleep"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Help me fall asleep.", "output": "ambient-sleep"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Play ambient sleep sound.", "output": "ambient-sleep"}
@@ -81,4 +145,26 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "I'm going to bed, play audio.", "output": "ambient-sleep"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Prepare sleep ambient track.", "output": "ambient-sleep"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Sleep mode on with sound.", "output": "ambient-sleep"}
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Θέλω να κοιμηθώ τώρα.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βοήθησέ με να αποκοιμηθώ.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε ambient ήχο για ύπνο.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Βάλε ήχο για να με νανουρίσεις.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε λειτουργία ήχου ύπνου.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Προσπαθώ να κοιμηθώ, παίξε κάτι.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ξεκίνα χαλαρωτικό ήχο για ύπνο.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Καθησυχαστικός ήχος για ύπνο, παρακαλώ.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε ήχο παρασκηνίου για ύπνο.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε έναν ήχο για ύπνο.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ήχος ύπνου με αυτόματο σταμάτημα, παρακαλώ.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χρειάζομαι μουσική για να με βοηθήσει να κοιμηθώ.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ρύθμισε τον ήχο να σταματήσει σε ένα λεπτό.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ήπιος ήχος για ύπνο, παρακαλώ.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Παίξε ambient ήχο που προκαλεί ύπνο.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ενεργοποίησε ήχο ύπνου.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Αυτόματο σταμάτημα ήχου ύπνου.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πάω για ύπνο, παίξε ήχο.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ετοίμασε κομμάτι ύπνου ambient.", "output": "ambient-sleep"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Λειτουργία ύπνου με ήχο ενεργοποιημένη.", "output": "ambient-sleep"}
+
 

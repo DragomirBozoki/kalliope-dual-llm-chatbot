@@ -1,5 +1,15 @@
 # labels.py
 
+reminder_keywords = [
+    # English
+    "remind me to", "i have to take", "in", "tonight",
+    "in a few", "in x", "seconds", "minutes", "hours", "days",
+
+    # Greek put out please let me know
+    "υπενθύμισέ μου να", "πρέπει να", "σε", "σε λίγα",
+    "λεπτά", "ώρες", "ημέρες", "παρακαλώ να με ενημερώσεις", "να πάρω", "να θυμηθώ"
+]
+
 label2id = {
     "lab-on": 0,
     "lab-off": 1,
@@ -55,12 +65,4 @@ label2id = {
 # Reverse mapping for inference
 id2label = {v: k for k, v in label2id.items()}
 
-reminder_keywords = [
-    # English
-    "remind me to", "i have to take", "in", "tonight",
-    "in a few", "in x", "seconds", "minutes", "hours", "days",
 
-    # Greek put out please let me know
-    "υπενθύμισέ μου να", "πρέπει να", "σε", "σε λίγα",
-    "λεπτά", "ώρες", "ημέρες", "παρακαλώ να με ενημερώσεις", "να πάρω", "να θυμηθώ"
-]

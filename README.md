@@ -14,14 +14,24 @@ Both models are integrated into one test script, allowing dynamic interaction de
 
 ## 🧩 Project Structure
 
-```
-├── training.py                 # Fine-tunes the classifier model
-├── test.py                     # Interactive script for testing both models
-├── labels.py                   # Maps intent labels to class IDs
-├── dataset/                    # Training data (JSONL format)
-│   └── questions.jsonl         # Open-ended Q&A for the generative model
-├── logs/                       # TensorBoard logs (optional)
-├── intent-medium-model/       # Folder where the classifier model is saved
+DualLLM_Multilang_Chatbot
+│
+│
+├── CommandAI/
+│   ├── train.py                # Training script for classification
+│   ├── test.py                 # Evaluation/inference for classification
+│   ├── config/
+│   │   ├── labels.py           # Contains label2id and id2label mappings
+│   └── dataset/
+│       ├── *.jsonl             # Training data files with instruction/input/output format
+│
+├── GenAI/
+│   ├── training.py             # Training script for generative model
+│   ├── test.py                 # Evaluation/inference for generative model
+│   └── dataset/
+│       └── questions.jsonl     # Input-output pairs for generative training
+│──requirments.txt              # Required libaries
+│
 └── README.md                   # This file
 ```
 
