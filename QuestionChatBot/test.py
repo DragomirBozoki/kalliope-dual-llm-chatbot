@@ -70,6 +70,7 @@ while True:
         gen_output = gen_model.generate(**gen_input, max_length=128, num_beams=4, early_stopping=True)
         gen_response = gen_tokenizer.decode(gen_output[0], skip_special_tokens=True)
         print("🤖 MT5 says:", gen_response)
+        
     else:
         print(f"✅ Confident. Kalliope will run synapse: {predicted_label}")
         subprocess.run(["kalliope", "start", "--run-synapse", predicted_label])
