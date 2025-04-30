@@ -1,5 +1,7 @@
 # 🤖 Kalliope LLM Hybrid NLP Module
 
+# ***STILL IN PROGRESS***
+
 This repository is part of a **larger Kalliope voice assistant system**. It contains a hybrid pipeline combining two multilingual transformer-based models:
 
 ### 🧠 Models Used
