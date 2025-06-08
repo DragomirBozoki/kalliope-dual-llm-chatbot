@@ -6,7 +6,6 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Give me sports updates.", "output": "news-sport"}
 {"instruction": "Classify the intent of the following sentence.", "input": "What’s new in sports today?", "output": "news-sport"}
 {"instruction": "Classify the intent of the following sentence.", "input": "What’s happening in sports?", "output": "news-sport"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Give me one piece of sports news.", "output": "news-sport"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Tell me the top sports story now.", "output": "news-sport"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Is there any sports update?", "output": "news-sport"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Let me know what’s going on in sports.", "output": "news-sport"}

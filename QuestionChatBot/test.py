@@ -1,81 +1,108 @@
+# -*- coding: utf-8 -*-
+
+import os
+import sys
 import torch
+import json
+import faiss
+import numpy as np
 import subprocess
-import pandas as pd
+from sentence_transformers import SentenceTransformer
+from transformers import (
+    AutoModelForSequenceClassification, AutoTokenizer,
+)
+from config.labels import id2label, reminder_keywords
 
-from transformers import AutoModelForSequenceClassification, AutoTokenizer, MT5Tokenizer, MT5ForConditionalGeneration
-from config.logfile import init_log_file
-from config.logger import log_entry
-from Chatgpt_testground.QuestionChatBot.config.labels import label2id, id2label, reminder_keywords
+# Paths
+BASE_PATH = os.path.expanduser("~/kalliope_starter_gr/Chatgpt_testground")
+INTENT_MODEL_PATH = os.path.join(BASE_PATH, "models", "intent-medium-model-multilang-v2.0")
+FAISS_INDEX_PATH = os.path.join(BASE_PATH, "faiss/esdalab_index.bin")
+FAISS_TEXTS_PATH = os.path.join(BASE_PATH, "faiss/esdalab_texts.json")
+DATASET_PATH = os.path.join(BASE_PATH, "TalkChatBot/dataset/train_dataset/esdalab_english.jsonl")
 
-# ---------- Init ----------
-init_log_file()
+# Device
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# Typo dictionary
-typo_df = pd.read_csv("typos_multilang_extended.csv")
-typo_dict = dict(zip(typo_df["typo"], typo_df["correct"]))
+def load_intent_model():
+    tokenizer = AutoTokenizer.from_pretrained(INTENT_MODEL_PATH)
+    model = AutoModelForSequenceClassification.from_pretrained(INTENT_MODEL_PATH).to(DEVICE)
+    return tokenizer, model
 
-def correct_typos(text):
-    words = text.split()
-    corrected = [typo_dict.get(w.lower(), w) for w in words]
-    return " ".join(corrected)
+def load_faiss():
+    index = faiss.read_index(FAISS_INDEX_PATH)
+    with open(FAISS_TEXTS_PATH, "r") as f:
+        texts = json.load(f)
+    embedder = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+    return index, texts, embedder
 
-# Load intent classification model
-model_path = "./intent-medium-model-multilang-v2.0"
-tokenizer = AutoTokenizer.from_pretrained(model_path)
-model = AutoModelForSequenceClassification.from_pretrained(model_path)
+def load_dataset_entries():
+    entries = []
+    with open(DATASET_PATH, "r") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                entries.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+    return entries
 
-# Load generative model (MT5)
-gen_model_path = "./output_mt5"
-gen_tokenizer = MT5Tokenizer.from_pretrained(gen_model_path)
-gen_model = MT5ForConditionalGeneration.from_pretrained(gen_model_path)
+def generate_response(query, index, texts, embedder, dataset_entries):
+    query_vec = embedder.encode([query])
+    D, I = index.search(np.array(query_vec), 1)
+    closest_q = texts[I[0][0]]
+    distance = D[0][0]
 
-# Instruction for classification
-instruction = "Classify the intent of the following sentence."
+    closest_answer = next(
+        (entry["output"] for entry in dataset_entries if entry["input"].lower() == closest_q.lower()),
+        None
+    )
 
-# Start Kalliope in background
-subprocess.Popen(["kalliope", "start"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-
-# Main loop
-while True:
-    print("Write the command (or type 'exit' to quit):")
-    text = input("> ").strip()
-
-    if text.lower() == "exit":
-        print("Quitting...")
-        break
-
-    corrected_text = correct_typos(text.lower())
-    input_text = f'{instruction} {corrected_text}'
-    inputs = tokenizer(input_text, return_tensors="pt", truncation=True, padding="max_length", max_length=32)
-
-    with torch.no_grad():
-        outputs = model(**inputs)
-
-    probabilities = torch.softmax(outputs.logits, dim=1)
-    predicted_class_id = torch.argmax(probabilities, dim=1).item()
-    predicted_label = id2label[predicted_class_id]
-    prob = probabilities.max().item()
-
-    if any(kw in corrected_text for kw in reminder_keywords) and predicted_label not in ["remember-synapse", "remember-todo"]:
-        predicted_label = "remember-synapse"
-
-    print(f"Input: '{text}' → Corrected: '{corrected_text}'")
-    print(f"→ Predicted instruction: '{predicted_label}' (Confidence: {prob:.4f})")
-
-    gen_response = ""
-
-    if prob < 0.5:
-        print("⚠️ Not confident. Using MT5...")
-        gen_input = gen_tokenizer(corrected_text, return_tensors="pt", padding=True, truncation=True, max_length=128)
-        gen_output = gen_model.generate(**gen_input, max_length=128, num_beams=4, early_stopping=True)
-        gen_response = gen_tokenizer.decode(gen_output[0], skip_special_tokens=True)
-        print("🤖 MT5 says:", gen_response)
-        
+    if closest_answer:
+        return closest_answer
     else:
-        print(f"✅ Confident. Kalliope will run synapse: {predicted_label}")
-        subprocess.run(["kalliope", "start", "--run-synapse", predicted_label])
+        return f"I found something similar: {closest_q}"
 
-    print("-" * 60)
+def main():
+    tokenizer, intent_model = load_intent_model()
+    index, texts, embedder = load_faiss()
+    dataset_entries = load_dataset_entries()
 
-    # Log response
-    log_entry(text, corrected_text, predicted_label, f"{prob:.4f}", gen_response)
+    print("🎉 All models and data successfully loaded. Ready for interaction!\n")
+
+    while True:
+        text = input("You: ").strip()
+        if text.lower() == "exit":
+            print("👋 Goodbye!")
+            break
+
+        input_text = f"Classify the intent of the following sentence. {text}"
+        inputs = tokenizer(input_text, return_tensors="pt", truncation=True, padding="max_length", max_length=128).to(DEVICE)
+        with torch.no_grad():
+            outputs = intent_model(**inputs)
+        probs = torch.softmax(outputs.logits, dim=1)
+        class_id = torch.argmax(probs, dim=1).item()
+        predicted_label = id2label[class_id]
+        confidence = probs.max().item()
+
+        if any(kw in text for kw in reminder_keywords) and predicted_label not in ["remember-synapse", "remember-todo"]:
+            predicted_label = "remember-synapse"
+
+        if confidence >= 0.9 and predicted_label != "generative":
+            print(f"Kalliope will now run: {predicted_label}")
+            subprocess.run(["kalliope", "start", "--run-synapse", predicted_label])
+        else:
+            if index:
+                try:
+                    response = generate_response(text, index, texts, embedder, dataset_entries)
+                    # Ovo je ključno: Kalliope će pročitati samo linije koje počinju
+                    print("Kalliope will now run: generate.yml")
+                    print(f"SAY::{response}")
+                except Exception:
+                    print("SAY::I don't know.")
+            else:
+                print("SAY::I don't know.")
+
+if __name__ == "__main__":
+    main()

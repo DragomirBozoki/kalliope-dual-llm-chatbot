@@ -80,7 +80,7 @@ print("✅ Model initialized.")
 # ========== Training Arguments ==========
 training_args = TrainingArguments(
     output_dir="models/intent-multi-model_save_epoch",
-    num_train_epochs=25,
+    num_train_epochs=20,
     per_device_train_batch_size=16,
     learning_rate=2e-5,
     logging_steps=50,

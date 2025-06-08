@@ -1,0 +1,50 @@
+{"instruction": "Classify the intent of the following sentence.", "input": "What can you do?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Why were you made?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who built you?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What is your origin?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is your supervisor?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "How do you work?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are your abilities?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you learn?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are you capable of?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "ESDA", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Why do you exist?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are you a real person?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you explain yourself?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are you?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are you made of?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me something about yourself.", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Who is your developer?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Do you have a purpose?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Are you conscious?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What makes you different?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What are you programmed to do?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Hi", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Hello", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Hey", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Greetings", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Yasas", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kalimera", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kalispera", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Kalinikta", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Tell me more about ESDA Lab.", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Can you give me information about ESDA Lab?", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "I'd like to know more about the ESDA Lab.", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "What does the ESDA Lab do?", "output": "generative"}
+
+
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι μπορείς να κάνεις;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Γιατί δημιουργήθηκες;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος σε δημιούργησε;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποια είναι η προέλευσή σου;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιος είναι ο προγραμματιστής σου;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Πώς λειτουργείς;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Ποιες είναι οι δυνατότητές σου;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Μπορείς να μάθεις;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Τι είσαι προγραμματισμένος να κάνεις;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Γιατί υπάρχεις;", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Γεια σου", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Χαίρετε", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Καλημέρα", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Καλησπέρα", "output": "generative"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Καληνύχτα", "output": "generative"}

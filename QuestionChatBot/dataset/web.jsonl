@@ -3,21 +3,12 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "I want to browse the web.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Start the internet, please.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Can you open the website?", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Load the esda-lab website.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Bring up the browser.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "I need the internet opened.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Go to esda-lab.gr", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Start Firefox and open internet.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Open a browser tab for ESDA lab.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Show me the esda website.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Run the website esda-lab.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "I want to visit esda-lab.gr", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Can you load the internet page?", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Internet, please.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Bring up the internet now.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Fire up the web browser.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Please launch esda site.", "output": "run-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Take me online to ESDA.", "output": "run-web-esda"}
 
 {"instruction": "Classify the intent of the following sentence.", "input": "Άνοιξε το ίντερνετ.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Εκκίνησε τον περιηγητή τώρα.", "output": "run-web-esda"}
@@ -40,7 +31,6 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Παρακαλώ εκκίνησε τον ιστότοπο esda.", "output": "run-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Πάρε με online στο ESDA.", "output": "run-web-esda"}
 
-
 {"instruction": "Classify the intent of the following sentence.", "input": "Close the internet.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Shut down the browser.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Stop Google.", "output": "close-web-esda"}
@@ -49,15 +39,12 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Can you quit the browser?", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Turn off the internet window.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Please close Firefox.", "output": "close-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Exit from esda-lab.gr now.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Leave the website now.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Close the browser window.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "End the web session.", "output": "close-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Exit the ESDA site.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Stop the internet page.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Can you shut the browser?", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Please kill the Firefox tab.", "output": "close-web-esda"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Close the esda-lab.gr tab.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "I want to turn off the web.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Browser off, please.", "output": "close-web-esda"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Stop browsing now.", "output": "close-web-esda"}

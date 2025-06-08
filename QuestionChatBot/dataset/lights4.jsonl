@@ -165,15 +165,12 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "ξεκίνα το κλιματιστικό στο lab", "output": "fan-lab1"}
 
 {"instruction": "Classify the intent of the following sentence.", "input": "turn on the lab air conditioning", "output": "fan-lab1"}
-{"instruction": "Classify the intent of the following sentence.", "input": "activate lab AC", "output": "fan-lab1"}
+{"instruction": "Classify the intent of the following sentence.", "input": "activate laboratory AC", "output": "fan-lab1"}
 {"instruction": "Classify the intent of the following sentence.", "input": "start cooling in the lab", "output": "fan-lab1"}
 {"instruction": "Classify the intent of the following sentence.", "input": "enable air conditioning for the lab", "output": "fan-lab1"}
-{"instruction": "Classify the intent of the following sentence.", "input": "switch on lab aircon", "output": "fan-lab1"}
-{"instruction": "Classify the intent of the following sentence.", "input": "launch ventilation in lab", "output": "fan-lab1"}
 {"instruction": "Classify the intent of the following sentence.", "input": "AC on in the lab", "output": "fan-lab1"}
 {"instruction": "Classify the intent of the following sentence.", "input": "cool the laboratory", "output": "fan-lab1"}
 {"instruction": "Classify the intent of the following sentence.", "input": "turn lab AC on", "output": "fan-lab1"}
-{"instruction": "Classify the intent of the following sentence.", "input": "start aircon in the lab", "output": "fan-lab1"}
 
 {"instruction": "Classify the intent of the following sentence.", "input": "κλείσε το κλιματιστικό στο εργαστήριο", "output": "fan-lab2"}
 {"instruction": "Classify the intent of the following sentence.", "input": "σταμάτησε την ψύξη στο εργαστήριο", "output": "fan-lab2"}

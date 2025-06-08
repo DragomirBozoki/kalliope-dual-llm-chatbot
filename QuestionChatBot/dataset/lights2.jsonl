@@ -6,7 +6,6 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "I'd like the lights on in the room.", "output": "room-on"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Make sure the room is well-lit.", "output": "room-on"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Light up the room, please.", "output": "room-on"}
-{"instruction": "Classify the intent of the following sentence.", "input": "I need illumination in the room.", "output": "room-on"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Brighten the room now.", "output": "room-on"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Room lights on, please.", "output": "room-on"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Let there be light in the room.", "output": "room-on"}

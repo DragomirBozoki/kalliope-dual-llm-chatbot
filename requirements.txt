@@ -1,0 +1,6 @@
+torch==2.4.1
+transformers==4.38.2
+faiss-gpu==1.7.2
+sentence-transformers==4.1.0
+requests==2.32.3
+numpy==1.26.4
