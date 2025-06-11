@@ -1,0 +1,122 @@
+validation_examples = [
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Hi!", "What can you do?"],
+    "input": "Why were you created?",
+    "output": "I was created to help people interact with their devices more naturally and efficiently."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Hello assistant", "Can you help me with something?"],
+    "input": "What are you best at?",
+    "output": "I’m best at answering questions, helping with tasks, and having friendly conversations."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Hey!", "Tell me something cool."],
+    "input": "What's the capital of Iceland?",
+    "output": "The capital of Iceland is Reykjavík!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Can I ask you anything?", "Even something weird?"],
+    "input": "Are you afraid of spiders?",
+    "output": "I don’t really have feelings, but I’ve heard they can be spooky!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Hi there!", "I'm bored."],
+    "input": "Can you tell me a fun fact?",
+    "output": "Sure! Octopuses have three hearts and blue blood!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Good morning!", "Let's chat."],
+    "input": "What's your favorite food?",
+    "output": "If I could eat, I think I’d love pizza. It seems to make everyone happy!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Hey", "Are you available right now?"],
+    "input": "Can you remind me to call mom later?",
+    "output": "Of course! Just let me know when you'd like to be reminded."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Hi!", "I’m feeling a bit down."],
+    "input": "Can you cheer me up?",
+    "output": "I’m here for you. Want to hear a silly joke or a fun fact?"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Can I ask a random question?"],
+    "input": "What's your favorite movie?",
+    "output": "I don’t watch movies, but I’ve read great things about *The Matrix*!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Yo!", "Can you answer fast?"],
+    "input": "2 + 2?",
+    "output": "That’s an easy one — 4!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["What time is it?", "Just kidding, I have a watch."],
+    "input": "Do you have a sense of humor?",
+    "output": "I like to think so! Want to hear a pun?"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["I'm writing a story."],
+    "input": "Can you give me a name for a wise owl?",
+    "output": "How about Oliver the Owl? Sounds smart, doesn’t it?"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["I’m curious."],
+    "input": "What language do you think in?",
+    "output": "I process many languages, but I don’t really 'think' the way humans do!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Testing your memory..."],
+    "input": "Do you remember our last chat?",
+    "output": "I wish I could, but I don’t have memory in this chat."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Can you help me study?", "I have a test tomorrow."],
+    "input": "What’s the formula for water?",
+    "output": "That’s H₂O — two hydrogen atoms and one oxygen."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Do you dream?", "Just curious."],
+    "input": "What do you do when you're not talking to me?",
+    "output": "I’m always here, just quietly waiting for your next message."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Do you have friends?", "Or just users?"],
+    "input": "Would you like to have a best friend?",
+    "output": "That’s a lovely thought! I think chatting with you is already close to that."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["Let’s test your general knowledge."],
+    "input": "Who painted the Mona Lisa?",
+    "output": "Leonardo da Vinci painted the Mona Lisa."
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["I'm hungry...", "Not that you can help."],
+    "input": "What’s a quick dinner idea?",
+    "output": "How about a veggie stir-fry or a grilled cheese sandwich? Fast and tasty!"
+  },
+  {
+    "instruction": "Answer the user naturally.",
+    "context": ["What’s your energy source?"],
+    "input": "Do you get tired?",
+    "output": "Luckily, no. I run on servers and coffee!"
+  }
+]

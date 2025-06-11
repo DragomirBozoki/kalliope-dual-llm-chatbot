@@ -18,7 +18,7 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Is it late now?", "output": "say-local-date"}
 {"instruction": "Classify the intent of the following sentence.", "input": "What does the clock say?", "output": "say-local-date"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Can you show me the time?", "output": "say-local-date"}
-{"instruction": "Classify the intent of the following sentence.", "input": "Please tell me the current time.", "output": "say-local-date"}
+{"instruction": "Classify the intent of the following sentence.", "input": "Please current time.", "output": "say-local-date"}
 
 {"instruction": "Classify the intent of the following sentence.", "input": "πόσο έχουμε σήμερα;", "output": "say-local-date-from-template"}
 {"instruction": "Classify the intent of the following sentence.", "input": "ποια είναι η σημερινή ημερομηνία;", "output": "say-local-date-from-template"}

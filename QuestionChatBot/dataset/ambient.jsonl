@@ -40,7 +40,6 @@
 {"instruction": "Classify the intent of the following sentence.", "input": "Παίξε έναν ήπιο ήχο στο παρασκήνιο.", "output": "ambient-random"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Δημιούργησε ατμόσφαιρα με ambient ήχο.", "output": "ambient-random"}
 
-
 {"instruction": "Classify the intent of the following sentence.", "input": "Stop the ambient sound.", "output": "ambient-stop"}
 {"instruction": "Classify the intent of the following sentence.", "input": "Turn off the background audio.", "output": "ambient-stop"}
 {"instruction": "Classify the intent of the following sentence.", "input": "I want silence.", "output": "ambient-stop"}

@@ -2,6 +2,7 @@ from transformers import TrainerCallback
 import random
 import os
 import torch
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class SaveEveryNEpochsCallback(TrainerCallback):
     def __init__(self, save_every_n_epochs, output_dir):
@@ -18,28 +19,15 @@ class SaveEveryNEpochsCallback(TrainerCallback):
 class PrintPredictionCallback(TrainerCallback):
     def __init__(self, tokenizer, model, dataset, print_every_n_epoch=5):
         self.tokenizer = tokenizer
-        self.model = model
+        self.model = model.to(device)  # Ensure model is on the correct device
         self.dataset = dataset
-        self.print_every_n_epochs = print_every_n_epoch
+        self.print_every_n_epoch = print_every_n_epoch
 
     def on_epoch_end(self, args, state, control, **kwargs):
-        if state.epoch is None or int(state.epoch) % self.print_every_n_epochs != 0:
-            return
+        if (state.epoch + 1) % self.print_every_n_epoch == 0:
+            # Move inputs to the same device as the model
+            inputs = {key: value.to(device) for key, value in self.dataset[0].items()}
+            with torch.no_grad():
+                outputs = self.model(**inputs)
+            print("Sample Predictions:", outputs.logits.argmax(dim=-1).cpu().numpy())
 
-        sample = random.choice(self.dataset)
-
-        input_text = f"{sample['instruction']} {sample['input']}"
-        inputs = self.tokenizer(input_text, return_tensors="pt", padding=True, truncation=True)
-
-        with torch.no_grad():
-            outputs = self.model(**inputs)
-            logits = outputs.logits
-            pred_id = torch.argmax(logits, dim=-1).item()
-
-        pred_label = self.model.config.id2label[pred_id]
-        true_label = sample['output']
-
-        print("\n🔍 Sample Prediction:")
-        print(f"Text      : {input_text}")
-        print(f"True label: {true_label}")
-        print(f"Predicted : {pred_label}")

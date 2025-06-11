@@ -2,7 +2,7 @@
 
 reminder_keywords = [
     # English
-    "remind me to", "i have to take", "in", "tonight",
+    "remind me to", "i have to take", "tonight",
     "in a few", "in x", "seconds", "minutes", "hours", "days",
 
     # Greek put out please let me know
@@ -60,6 +60,7 @@ label2id = {
     "tea-time": 46,
     "remember-synapse": 47,
     "remember-todo": 48,
+    "generative": 49
 }
 
 # Reverse mapping for inference
