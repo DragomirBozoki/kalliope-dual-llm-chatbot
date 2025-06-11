@@ -90,7 +90,11 @@ def main():
             predicted_label = "remember-synapse"
 
         if confidence >= 0.9 and predicted_label != "generative":
+<<<<<<< HEAD
             print(f"Kalliope will now run: {predicted_label}, confidence: {confidence}")
+=======
+            print(f"Kalliope will now run: {predicted_label}")
+>>>>>>> 3b5f54abcbf70d6870f36c270c63f7f7663e3a96
             subprocess.run(["kalliope", "start", "--run-synapse", predicted_label])
         else:
             if index:

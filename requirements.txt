@@ -4,6 +4,7 @@ faiss-gpu==1.7.2
 sentence-transformers==4.1.0
 requests==2.32.3
 numpy==1.26.4
+<<<<<<< HEAD
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -99,3 +100,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> 3b5f54abcbf70d6870f36c270c63f7f7663e3a96

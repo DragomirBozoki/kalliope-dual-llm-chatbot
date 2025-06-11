@@ -1,131 +1,121 @@
-# 🤖 Kalliope LLM Hybrid NLP Module
+# STILL IN PROGRESS
 
-# ***STILL IN PROGRESS***
+This repository is part of a larger Kalliope voice assistant system and enhances its capabilities with a hybrid NLP pipeline that combines intent classification, generative answers, and semantic search with FAISS.
+# 🧠 Models
 
-This repository is part of a **larger Kalliope voice assistant system**. It contains a hybrid pipeline combining two multilingual transformer-based models:
+    Instruction Model (Classifier)
+    Classifies user commands into predefined Kalliope synapses (e.g., "Turn on kitchen light" → kitchen-on).
 
-### 🧠 Models Used
-1. **Instruction Model (Classifier)** – Classifies user speech into predefined intent labels (e.g., `"turn on kitchen light" → kitchen-on`).
-2. **Natural Response Model (Generator)** – Answers open-ended or factual user questions with human-like responses (e.g., `"Who is your professor?" → "My professor is Nikolaos Voros.")`.
+    Natural Response Model (Generator)
+    Generates natural, human-like answers to open-ended or factual questions (e.g., "Who is your professor?" → "My professor is Nikolaos Voros.").
 
-Both models are integrated into one test script, allowing dynamic interaction depending on the user's input.
+    FAISS Semantic Search (Retriever)
+    Provides fast retrieval of similar questions and answers from a knowledge base (faq.csv or faq.jsonl), enabling the generative model to deliver more context-aware and relevant responses.
 
 ---
 
 ## 🧩 Project Structure
 
-DualLLM_Multilang_Chatbot
-│
-│
+DualLLM_Multilang_Chatbot/
 ├── CommandAI/
-│   ├── train.py                # Training script for classification
-│   ├── test.py                 # Evaluation/inference for classification
+│   ├── train.py                # Training script for the classifier
+│   ├── test.py                 # Evaluation/inference for the classifier
 │   ├── config/
-│   │   ├── labels.py           # Contains label2id and id2label mappings
+│   │   ├── labels.py           # label2id and id2label mappings
 │   └── dataset/
-│       ├── *.jsonl             # Training data files with instruction/input/output format
+│       ├── *.jsonl             # Dataset for classification
 │
 ├── GenAI/
-│   ├── training.py             # Training script for generative model
-│   ├── test.py                 # Evaluation/inference for generative model
+│   ├── training.py             # Training script for the generative model
+│   ├── test.py                 # Evaluation/inference for the generative model
 │   └── dataset/
-│       └── questions.jsonl     # Input-output pairs for generative training
-│──requirments.txt              # Required libaries
+│       └── questions.jsonl     # Dataset for generative responses
 │
+├── faiss_retrieval.py          # FAISS retriever for context-based retrieval
+├── main.py                     # Hybrid runtime: classification + generation + FAISS
+├── requirements.txt            # Required libraries
 └── README.md                   # This file
-```
+
+# ⚙️ Hybrid Logic
+
+🔹 If the classifier predicts a known intent with high confidence (e.g., >0.7):
+➡️ Triggers the appropriate Kalliope synapse.
+
+🔹 If the classifier confidence is low:
+➡️ FAISS retriever searches the knowledge base for the most similar question.
+➡️ The generative model (mT5) uses the retrieved context to generate a natural, informative response.
+User Input	Step 1	Step 2
+Turn on the kitchen lights	Classifier	Runs Kalliope synapse: kitchen-on
+What is embedded systems design?	Classifier (low confidence) + FAISS	Generator answers naturally using context
 
 ---
 
-## 🧠 Hybrid Logic
+# 💬 Dataset Formats
+Intent Classification – dataset/*.jsonl
+{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the fan", "output": "fan-on"}
 
-During execution, the system uses the classifier model to determine whether a command maps to a known Kalliope intent. If the prediction confidence is high (e.g., > 0.70), it runs the appropriate Kalliope synapse. Otherwise, the generative model answers naturally.
-
-### Examples:
-| User Input                                 | Model Used      | Action                                  |
-|-------------------------------------------|------------------|------------------------------------------|
-| `Turn on the fan`                         | Classifier       | → Runs `fan-on` synapse in Kalliope      |
-| `Remind me to drink tea in 30 seconds`    | Classifier       | → Runs `remember-synapse`               |
-| `Who is your professor?`                  | Generator (mT5)  | → Answers: "My professor is ..."        |
-| `What is embedded systems design?`        | Generator (mT5)  | → Answers: "It is the field of ..."     |
+Generative Question-Answering – dataset/questions.jsonl
+{"instruction": "Answer the user's question about the lab.", "input": "Who is your supervisor?", "output": "My supervisor is Professor Nikolaos Voros."}
 
 ---
+# ⚙️ How to Use
+Step 1: Install dependencies
 
-## ⚙️ How to Use
+pip install -r requirements.txt
 
-### Step 1: Install dependencies
-```bash
-pip install transformers datasets torch tensorboard protobuf==3.20.*
+Ensure Kalliope is already installed and configured.
+Step 2: Train the Classifier Model
 
-```
-Make sure Kalliope is already installed and configured.
+python CommandAI/train.py
 
-### Step 2: Train the Classifier Model
-```bash
-python training.py
-```
-This will:
-- Load the `.jsonl` dataset
-- Balance the examples per class - optional if you are using a subset
-- Fine-tune an `xlm-roberta-base` classifier
-- Save it to disk for use in `test.py`
+Step 3: Train the Generative Model
 
-### Step 3: Run the Hybrid NLP Engine
-```bash
-python test.py
-```
-Type any command or question:
-```
-> Turn on the kitchen lights
-[Classifier] → kitchen-on (confidence: 0.89)
-🧠 Running synapse 'kitchen-on'
+python GenAI/training.py
+
+Step 4: Run the Hybrid NLP Engine
+
+python main.py
+
+Example interaction:
+
+> Turn on the fan
+[Classifier] → fan-on (confidence: 0.89)
+🧠 Running synapse 'fan-on'
 
 > Who is your supervisor?
 [Classifier] → UNKNOWN (confidence: 0.34)
-🤖 Generating natural answer...
-💬 My supervisor is Professor Nikolaos Voros.
-```
+🔎 Searching knowledge base with FAISS...
+🤖 Generator answer: "My supervisor is Professor Nikolaos Voros."
+
+🌍 Multilingual Support
+
+Thanks to xlm-roberta-base and mT5, the system natively supports English and Greek questions and commands.
+# 🧠 Tech Stack
+
+    HuggingFace transformers
+
+    datasets for JSONL loading
+
+    torch (PyTorch backend)
+
+    faiss for semantic search
+
+    kalliope voice assistant platform
+
+    xlm-roberta-base for intent classification
+
+    google/mt5-small for text generation
+
+    tensorboard for training tracking
 
 ---
 
-## 💬 Dataset Formats
+# 📄 License
 
-### Intent Classification – `dataset/*.jsonl`
-```json
-{"instruction": "Classify the intent of the following sentence.", "input": "Turn on the fan", "output": "fan-on"}
-```
+MIT License – feel free to use, adapt, and integrate it in your projects!
+👤 Author
 
-### Generative Question-Answering – `dataset/questions.jsonl`
-```json
-{"instruction": "Answer the user's question about the lab.", "input": "Who is your supervisor?", "output": "My supervisor is Professor Nikolaos Voros."}
-```
+Developed by Dragomir Bozoki, Faculty of Technical Sciences – Signal Processing,
+as part of an Erasmus research exchange at the University of Peloponnese, Patras, Greece.
 
----
-
-## 🌍 Multilingual Support
-Thanks to `xlm-roberta-base` and `mT5`, this system supports both **English and Greek** questions and commands.
-
----
-
-## 🧠 Tech Stack
-- `transformers` by HuggingFace
-- `datasets` for JSONL loading
-- `torch` (PyTorch backend)
-- `kalliope` voice assistant platform
-- `xlm-roberta-base` for intent classification
-- `google/mt5-small` for text generation
-- `tensorboard` for tracking training
-
----
-
-## 📄 License
-MIT License – open to use, adapt, and integrate.
-
----
-
-## 👤 Author
-Made by **Dragomir Bozoki**, Faculty of Technical Sciences – Signal Processing,
-as part of an Erasmus research exchange at the **University of Peloponnese**, Patras, Greece.
-
-This hybrid NLP module bridges command classification and natural language answers inside Kalliope.
-It aims to bring intelligent, multilingual dialogue to open-source voice assistants.
+This module brings intelligent, multilingual dialogue to open-source voice assistants, bridging structured command classification with natural, generative answers – all powered by hybrid transformer-based models.
