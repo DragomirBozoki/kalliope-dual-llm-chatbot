@@ -1,3 +1,33 @@
+### 📑 Table of Contents
+
+    📑   Overview
+
+    🧠 Available Intents
+
+    🔧 Setup Instructions
+
+    🛠️ Installation
+
+    🎓 Training the Classifier
+
+    🚀 Building the FAISS Index (Semantic Fallback)
+
+    📦 Classifier Architecture and Integration with Kalliope
+
+        1. Classification Workflow
+
+        2. Semantic Fallback with FAISS
+
+        3. Kalliope Integration
+
+    🧩 How to Add a New Intent Category
+
+    🧊 Installing Snowboy on Python 38
+
+    👤 Author
+
+---
+
 ## Overview
 
 This project implements a multilingual intent classification and fallback system for voice assistants, designed and developed by Dragomir Bozoki in collaboration with the University of Patras and the ESDA Lab. It integrates a fine-tuned transformer-based classifier, semantic retrieval using FAISS, and optional generative fallback mechanisms into the open-source Kalliope voice assistant platform.
@@ -75,33 +105,6 @@ Below is the full list of supported intent labels used by the multilingual class
 | `remember-todo`                  | 48  | Add to to-do list                           |
 | `generative`                     | 49  | Fallback to generative response             |
 
-### 📑 Table of Contents
-
-    Overview
-
-    🧠 Available Intents
-
-    🔧 Setup Instructions
-
-    🛠️ Installation
-
-    🎓 Training the Classifier
-
-    🚀 Building the FAISS Index (Semantic Fallback)
-
-    📦 Classifier Architecture and Integration with Kalliope
-
-        1. Classification Workflow
-
-        2. Semantic Fallback with FAISS
-
-        3. Kalliope Integration
-
-    🧩 How to Add a New Intent Category
-
-    🧊 Installing Snowboy on Python 38
-
-    👤 Author
 
 ## 🔧 Setup Instructions
 
