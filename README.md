@@ -265,8 +265,9 @@ Step 2: Intent Classification
     
 ## Synapse for Direct Intent Execution
 
-Each classified label must correspond to a synapse in the Kalliope brain.yml:
+Each classified label must correspond to a synapse in the Kalliope brain.yml or in brain folder:
 ```bash
+
 - name: "kitchen-on"
   signals:
     - order: "kitchen-on"
