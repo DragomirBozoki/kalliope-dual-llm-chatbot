@@ -125,8 +125,8 @@ These files are large and are excluded via .gitignore.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ESDA-LAB/Alexandra-AI-chatbot.git
-cd Alexandra-AI-chatbot/Chatbot
+git clone https://github.com/ESDA-LAB/Alexandra-AI-chatbot.git](https://github.com/DragomirBozoki/kalliope-dual-llm-chatbot
+cd kalliope-dual-llm-chatbot
 
 python3 -m venv kalliope_venv
 source kalliope_venv/bin/activate
