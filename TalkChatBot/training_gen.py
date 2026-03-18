@@ -1,4 +1,4 @@
-print("🚀 Starting GPT-2 training...\n")
+print("Starting GPT-2 training...\n")
 import os
 import warnings
 import torch
