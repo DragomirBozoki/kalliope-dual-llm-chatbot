@@ -32,14 +32,14 @@ model = GPT2LMHeadModel.from_pretrained(MODEL_NAME).cuda()
 tokenizer.pad_token = tokenizer.eos_token  # važno za padding
 
 # ========== Load Dataset ==========
-print("📦 Loading dataset...")
+print(" Loading dataset...")
 dataset = load_dataset(
     "json",
     data_files=DATA_PATH,
     split="train"
 )
 
-print(f"✅ Loaded {len(dataset)} samples.")
+print(f" Loaded {len(dataset)} samples.")
 print("🧾 Example:")
 print(dataset[0])
 
@@ -103,7 +103,7 @@ trainer = Trainer(
     optimizers=(optimizer, scheduler),
 )
 
-print("\n🧠 All systems ready. Starting training...\n")
+print("\n All systems ready. Starting training...\n")
 trainer.train()
 
 # ========== Save ==========
