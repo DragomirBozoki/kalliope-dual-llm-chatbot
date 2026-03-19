@@ -1,113 +1,138 @@
-print("Starting GPT-2 training...\n")
 import os
 import warnings
+
 import torch
 from datasets import load_dataset
 from transformers import (
-    GPT2Tokenizer,
+    DataCollatorForLanguageModeling,
     GPT2LMHeadModel,
+    GPT2Tokenizer,
     Trainer,
     TrainingArguments,
     get_cosine_schedule_with_warmup,
-    DataCollatorForLanguageModeling,
     logging,
 )
 
 warnings.filterwarnings("ignore", category=UserWarning)
 logging.set_verbosity_error()
 
-# ========== Configuration ==========
 MODEL_NAME = "gpt2"
 DATA_PATH = "TalkChatBot/dataset/train_dataset/esdalab_english.jsonl"
 OUTPUT_DIR = "./models/gpt2-kalliopev2.0"
-MAX_LEN = 128
-EPOCHS = 150  # 70 epoha za mali dataset (~200 pitanja)
+MAX_SEQ_LENGTH = 128
+NUM_EPOCHS = 150
 BATCH_SIZE = 4
-LEARNING_RATE = 1e-5 
+LEARNING_RATE = 1e-5
 WARMUP_STEPS = 30
-print("epochs: 30")
-# ========== Load Model & Tokenizer ==========
-tokenizer = GPT2Tokenizer.from_pretrained(MODEL_NAME)
-model = GPT2LMHeadModel.from_pretrained(MODEL_NAME).cuda()
-tokenizer.pad_token = tokenizer.eos_token  # važno za padding
+WEIGHT_DECAY = 0.01
+COSINE_CYCLES = 2
+MAX_GRAD_NORM = 1.0
+SAVE_STEPS = 500
+SAVE_TOTAL_LIMIT = 2
+LOGGING_STEPS = 10
 
-# ========== Load Dataset ==========
-print(" Loading dataset...")
-dataset = load_dataset(
-    "json",
-    data_files=DATA_PATH,
-    split="train"
-)
 
-print(f" Loaded {len(dataset)} samples.")
-print("🧾 Example:")
-print(dataset[0])
+def get_device() -> torch.device:
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if device.type == "cuda":
+        print(f"Using GPU: {torch.cuda.get_device_name(0)}")
+    else:
+        print("Using CPU")
+    return device
 
-# ========== Tokenization ==========
-def tokenize_fn(examples):
-    # Spajanje instruction + input + output
-    merged = [f"{inst.strip()} {inp.strip()} {output.strip()}" for inst, inp, output in zip(examples["instruction"], examples["input"], examples["output"])]
-    tokenized = tokenizer(
-        merged,
-        truncation=True,
-        padding="max_length",
-        max_length=MAX_LEN
+
+def load_tokenizer_and_model(model_name: str, device: torch.device):
+    tokenizer = GPT2Tokenizer.from_pretrained(model_name)
+    tokenizer.pad_token = tokenizer.eos_token
+    model = GPT2LMHeadModel.from_pretrained(model_name).to(device)
+    return tokenizer, model
+
+
+def build_tokenize_fn(tokenizer):
+    def tokenize(examples):
+        merged = [
+            f"{inst.strip()} {inp.strip()} {out.strip()}"
+            for inst, inp, out in zip(
+                examples["instruction"], examples["input"], examples["output"]
+            )
+        ]
+        tokenized = tokenizer(
+            merged,
+            truncation=True,
+            padding="max_length",
+            max_length=MAX_SEQ_LENGTH,
+        )
+        tokenized["labels"] = tokenized["input_ids"].copy()
+        return tokenized
+
+    return tokenize
+
+
+def create_optimizer_and_scheduler(model, dataset_size: int):
+    steps_per_epoch = dataset_size // BATCH_SIZE
+    total_steps = steps_per_epoch * NUM_EPOCHS
+
+    optimizer = torch.optim.AdamW(
+        model.parameters(),
+        lr=LEARNING_RATE,
+        weight_decay=WEIGHT_DECAY,
     )
-    tokenized["labels"] = tokenized["input_ids"].copy()
-    return tokenized
+    scheduler = get_cosine_schedule_with_warmup(
+        optimizer,
+        num_warmup_steps=WARMUP_STEPS,
+        num_training_steps=total_steps,
+        num_cycles=COSINE_CYCLES,
+    )
+    return optimizer, scheduler
 
-tokenized_dataset = dataset.map(tokenize_fn, batched=True, remove_columns=dataset.column_names)
 
-# ========== Collator ==========
-data_collator = DataCollatorForLanguageModeling(
-    tokenizer=tokenizer,
-    mlm=False
-)
+def train():
+    device = get_device()
+    tokenizer, model = load_tokenizer_and_model(MODEL_NAME, device)
 
-# ========== Optimizer & Scheduler ==========
-steps_per_epoch = len(tokenized_dataset) // BATCH_SIZE
-total_steps = steps_per_epoch * EPOCHS
+    dataset = load_dataset("json", data_files=DATA_PATH, split="train")
+    print(f"Loaded {len(dataset)} samples")
 
-optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=0.01)
-scheduler = get_cosine_schedule_with_warmup(
-    optimizer,
-    num_warmup_steps=WARMUP_STEPS,
-    num_training_steps=total_steps,
-    num_cycles=2
-)
+    tokenize_fn = build_tokenize_fn(tokenizer)
+    tokenized_dataset = dataset.map(
+        tokenize_fn, batched=True, remove_columns=dataset.column_names
+    )
 
-# ========== Training Arguments ==========
-training_args = TrainingArguments(
-    output_dir=OUTPUT_DIR,
-    num_train_epochs=EPOCHS,
-    per_device_train_batch_size=BATCH_SIZE,
-    learning_rate=LEARNING_RATE,
-    report_to="tensorboard",
-    fp16=False,
-    save_total_limit=2,
-    logging_steps=10,
-    save_steps=500,
-    remove_unused_columns=True,
-    gradient_accumulation_steps=1,
-    disable_tqdm=False,
-    max_grad_norm=1.0,
-)
+    data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
+    optimizer, scheduler = create_optimizer_and_scheduler(model, len(tokenized_dataset))
 
-# ========== Trainer ==========
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=tokenized_dataset,
-    tokenizer=tokenizer,
-    data_collator=data_collator,
-    optimizers=(optimizer, scheduler),
-)
+    training_args = TrainingArguments(
+        output_dir=OUTPUT_DIR,
+        num_train_epochs=NUM_EPOCHS,
+        per_device_train_batch_size=BATCH_SIZE,
+        learning_rate=LEARNING_RATE,
+        report_to="tensorboard",
+        fp16=False,
+        save_total_limit=SAVE_TOTAL_LIMIT,
+        logging_steps=LOGGING_STEPS,
+        save_steps=SAVE_STEPS,
+        remove_unused_columns=True,
+        gradient_accumulation_steps=1,
+        disable_tqdm=False,
+        max_grad_norm=MAX_GRAD_NORM,
+    )
 
-print("\n All systems ready. Starting training...\n")
-trainer.train()
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        train_dataset=tokenized_dataset,
+        tokenizer=tokenizer,
+        data_collator=data_collator,
+        optimizers=(optimizer, scheduler),
+    )
 
-# ========== Save ==========
-print("\n💾 Saving model...")
-trainer.save_model(OUTPUT_DIR)
-tokenizer.save_pretrained(OUTPUT_DIR)
-print("✅ Training complete! Model saved.")
+    print("Starting training...")
+    trainer.train()
+
+    trainer.save_model(OUTPUT_DIR)
+    tokenizer.save_pretrained(OUTPUT_DIR)
+    print(f"Model saved to '{OUTPUT_DIR}'")
+
+
+if __name__ == "__main__":
+    train()
